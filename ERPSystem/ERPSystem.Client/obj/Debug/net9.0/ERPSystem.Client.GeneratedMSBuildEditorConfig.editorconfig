@@ -28,6 +28,10 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ291bnRlci5yYXpvcg==
 build_metadata.AdditionalFiles.CssScope = 
 
+[/home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem.Client/Pages/MainMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvTWFpbk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
 [/home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem.Client/_Imports.razor]
 build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
 build_metadata.AdditionalFiles.CssScope = 

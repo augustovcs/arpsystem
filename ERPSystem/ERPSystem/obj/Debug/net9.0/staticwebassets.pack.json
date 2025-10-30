@@ -189,6 +189,10 @@
       "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
     },
     {
+      "Id": "/home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem/wwwroot/uploads/1760825743273.jpg",
+      "PackagePath": "staticwebassets/uploads/1760825743273.jpg"
+    },
+    {
       "Id": "obj/Debug/net9.0/staticwebassets/msbuild.ERPSystem.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },

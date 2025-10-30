@@ -150,5 +150,10 @@
 /home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem/obj/Debug/net9.0/compressed/i1901ftr2x-kp0ueqs315.gz
 /home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem/obj/Debug/net9.0/compressed/6xb9o06z95-35kiubt8li.gz
 /home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem/obj/Debug/net9.0/compressed/t2tvocn0z4-joy0vn8hvj.gz
-/home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem/obj/Debug/net9.0/compressed/cpk19lfq8c-qm0vopy8k7.gz
 /home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem/obj/Debug/net9.0/compressed/aiayddyl0l-qm0vopy8k7.gz
+/home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem/obj/Debug/net9.0/compressed/cpk19lfq8c-juj5ahmgr7.gz
+/home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem/obj/Debug/net9.0/ERPSystem.MvcApplicationPartsAssemblyInfo.cs
+/home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem/bin/Debug/net9.0/Microsoft.OpenApi.dll
+/home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem/bin/Debug/net9.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll

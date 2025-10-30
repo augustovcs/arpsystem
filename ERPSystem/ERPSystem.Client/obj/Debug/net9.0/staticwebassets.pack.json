@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets/_framework/blazor.webassembly.js"
     },
     {
+      "Id": "/home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem.Client/obj/Debug/net9.0/scopedcss/projectbundle/ERPSystem.Client.bundle.scp.css",
+      "PackagePath": "staticwebassets/ERPSystem.Client.h1ms1cua0k.bundle.scp.css"
+    },
+    {
       "Id": "/home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem.Client/wwwroot/appsettings.Development.json",
       "PackagePath": "staticwebassets/appsettings.Development.json"
     },

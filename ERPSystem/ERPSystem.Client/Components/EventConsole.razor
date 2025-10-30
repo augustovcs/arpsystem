@@ -1,0 +1,36 @@
+@using System.Collections.ObjectModel
+
+<RadzenCard Style="margin-top: 20px;">
+    <RadzenText TextStyle="TextStyle.Subtitle2" TagName="TagName.H4">Console de Eventos</RadzenText>
+
+    <div style="height: 500px; max-height: 2000px; overflow-y: auto; background-color: #1e1e1e; color: #dcdcdc; padding: 10px; border-radius: 5px;">
+        @foreach (var message in messages)
+        {
+            <div>@message</div>
+        }
+    </div>
+
+    <RadzenButton Text="Limpar" Click="@Clear" Class="rz-mt-2" ButtonStyle="ButtonStyle.Secondary" />
+</RadzenCard>
+
+@code {
+    private ObservableCollection<string> messages = new();
+    
+    
+    
+    public void Log(string message)
+    {
+        InvokeAsync(() =>
+        {
+            messages.Add($"{DateTime.Now:HH:mm:ss} → {message}");
+            StateHasChanged();
+
+        });
+
+    }
+
+    private void Clear()
+    {
+        messages.Clear();
+    }
+}

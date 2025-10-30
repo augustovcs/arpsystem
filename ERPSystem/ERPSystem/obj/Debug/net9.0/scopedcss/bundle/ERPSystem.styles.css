@@ -1,9 +1,17 @@
 /* _content/ERPSystem/Components/Layout/MainLayout.razor.rz.scp.css */
-.page[b-qbjj41shhm] {
-    position: relative;
-    display: flex;
-    flex-direction: column;
+html[b-qbjj41shhm], body[b-qbjj41shhm] {
+    margin: 0;
+    padding: 0;
+    height: 100%;
 }
+
+.page[b-qbjj41shhm] {
+    margin: 0;
+    padding: 0;
+}
+
+
+
 
 main[b-qbjj41shhm] {
     flex: 1;
@@ -13,18 +21,33 @@ main[b-qbjj41shhm] {
     background-image: linear-gradient(180deg, rgb(5, 39, 103) 0%, #3a0647 70%);
 }
 
+
+
+.rz-layout .rz-body[b-qbjj41shhm] {
+    margin-top: 0 !important;
+    padding-top: 0 !important;
+}
+
+.rz-header[b-qbjj41shhm] {
+    border-bottom: none;
+}
+
+
 .top-row[b-qbjj41shhm] {
     background-color: #f7f7f7;
     border-bottom: 1px solid #d6d5d5;
     justify-content: flex-end;
     height: 3.5rem;
+    gap: 0.5rem;
     display: flex;
     align-items: center;
 }
 
+
+
     .top-row[b-qbjj41shhm]  a, .top-row[b-qbjj41shhm]  .btn-link {
         white-space: nowrap;
-        margin-left: 1.5rem;
+        margin-left: 0;
         text-decoration: none;
     }
 
@@ -37,8 +60,12 @@ main[b-qbjj41shhm] {
         text-overflow: ellipsis;
     }
 
+
+
+
 @media (max-width: 640.98px) {
     .top-row[b-qbjj41shhm] {
+        padding-left : 0;
         justify-content: space-between;
     }
 

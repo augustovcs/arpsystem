@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "80hbAt2AokP9cjAJD6YIhNEZwnQmVS+ummSYm9zsjUs=",
+  "Hash": "YRgiri/1M6PxEArAhldpzlDgRz/71qMxXHdX09Rmv+c=",
   "Source": "ERPSystem",
   "BasePath": "_content/ERPSystem",
   "Mode": "Default",
@@ -848,8 +848,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "wn0exao2lk",
-      "Integrity": "JNxCVj9+BAb9NXdTC2vz4jbcg6iOwg7YDeI6KhyVx8I=",
+      "Fingerprint": "8ugaaey93j",
+      "Integrity": "QOrD/aiWxKHnhtVi1ybggzxgeFKnWoVMoED5bXbWsCc=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem.Client/bin/Debug/net9.0/wwwroot/_framework/blazor.boot.json"
@@ -1016,8 +1016,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "3sqb3g7d93",
-      "Integrity": "Uy/Xb8LY8o9aA8HxQMPdp4CzUZE13qT3b32fTp9H4P8=",
+      "Fingerprint": "ygjr9j55si",
+      "Integrity": "UgBbVFBSkxhQBlBRMeEOQXycp1lbD+rrvZDC1Iv/sS0=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem.Client/bin/Debug/net9.0/wwwroot/_framework/ERPSystem.Client.pdb"
@@ -1037,8 +1037,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "udf2z0hdmw",
-      "Integrity": "Yg0SQuM+NGQklOLjKLf+7LT4jjQrlTPjz14qtM10pUg=",
+      "Fingerprint": "mb72wayys6",
+      "Integrity": "bkbni+RwG0yHGUOie6G2x5NgALrYJ7woFocfRE2DObU=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "/home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem.Client/bin/Debug/net9.0/wwwroot/_framework/ERPSystem.Client.wasm"
@@ -8373,12 +8373,12 @@
       "OriginalItemSpec": "/home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem.Client/obj/Debug/net9.0/compressed/rs46s9wurj-6wmcrebyv4.gz"
     },
     {
-      "Identity": "/home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem.Client/obj/Debug/net9.0/compressed/rxmy1n3x72-udf2z0hdmw.gz",
+      "Identity": "/home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem.Client/obj/Debug/net9.0/compressed/rxmy1n3x72-mb72wayys6.gz",
       "SourceId": "ERPSystem.Client",
       "SourceType": "Project",
       "ContentRoot": "/home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem.Client/obj/Debug/net9.0/compressed/",
       "BasePath": "/",
-      "RelativePath": "_framework/ERPSystem.Client#[.{fingerprint=udf2z0hdmw}]!.wasm.gz",
+      "RelativePath": "_framework/ERPSystem.Client#[.{fingerprint=mb72wayys6}]!.wasm.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -8387,11 +8387,11 @@
       "RelatedAsset": "/home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem.Client/bin/Debug/net9.0/wwwroot/_framework/ERPSystem.Client.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "atw7jv1v93",
-      "Integrity": "3kB0IHuO9kB4qsZFZPfLxvwclc8sCvObNe7krqXLF98=",
+      "Fingerprint": "7gttst2ck9",
+      "Integrity": "V4o4Bk62hfZHokOs6btj0r1NmEZyhM1g/CjFX1ie+TI=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem.Client/obj/Debug/net9.0/compressed/rxmy1n3x72-udf2z0hdmw.gz"
+      "OriginalItemSpec": "/home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem.Client/obj/Debug/net9.0/compressed/rxmy1n3x72-mb72wayys6.gz"
     },
     {
       "Identity": "/home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem.Client/obj/Debug/net9.0/compressed/se87xs3ydw-8lolrkmttk.gz",
@@ -9234,12 +9234,12 @@
       "OriginalItemSpec": "/home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem.Client/obj/Debug/net9.0/compressed/z0docrpnab-uey7cwmupp.gz"
     },
     {
-      "Identity": "/home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem.Client/obj/Debug/net9.0/compressed/z1pr4pldu9-3sqb3g7d93.gz",
+      "Identity": "/home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem.Client/obj/Debug/net9.0/compressed/z1pr4pldu9-ygjr9j55si.gz",
       "SourceId": "ERPSystem.Client",
       "SourceType": "Project",
       "ContentRoot": "/home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem.Client/obj/Debug/net9.0/compressed/",
       "BasePath": "/",
-      "RelativePath": "_framework/ERPSystem.Client#[.{fingerprint=3sqb3g7d93}]!.pdb.gz",
+      "RelativePath": "_framework/ERPSystem.Client#[.{fingerprint=ygjr9j55si}]!.pdb.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -9248,11 +9248,11 @@
       "RelatedAsset": "/home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem.Client/bin/Debug/net9.0/wwwroot/_framework/ERPSystem.Client.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "a1jpetkr06",
-      "Integrity": "no6D92b/UiFO0LuDceJjLLXhHkrsRgPo02upyfNeQWw=",
+      "Fingerprint": "u02mv17iok",
+      "Integrity": "vsYWuCfDjrJbDw0vxoXBCyt0IxDXF1m/H3XAQQcwVCM=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem.Client/obj/Debug/net9.0/compressed/z1pr4pldu9-3sqb3g7d93.gz"
+      "OriginalItemSpec": "/home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem.Client/obj/Debug/net9.0/compressed/z1pr4pldu9-ygjr9j55si.gz"
     },
     {
       "Identity": "/home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem.Client/obj/Debug/net9.0/compressed/z3kpt3j46z-5bvshcz8rs.gz",
@@ -9276,7 +9276,7 @@
       "OriginalItemSpec": "/home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem.Client/obj/Debug/net9.0/compressed/z3kpt3j46z-5bvshcz8rs.gz"
     },
     {
-      "Identity": "/home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem.Client/obj/Debug/net9.0/compressed/z5a27m5phi-wn0exao2lk.gz",
+      "Identity": "/home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem.Client/obj/Debug/net9.0/compressed/z5a27m5phi-8ugaaey93j.gz",
       "SourceId": "ERPSystem.Client",
       "SourceType": "Project",
       "ContentRoot": "/home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem.Client/obj/Debug/net9.0/compressed/",
@@ -9290,11 +9290,11 @@
       "RelatedAsset": "/home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem.Client/bin/Debug/net9.0/wwwroot/_framework/blazor.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "r9e3vf35s6",
-      "Integrity": "AQpb2ezU7FTApkFuR6MwctVebAQg1fI6HQH9Y/999iU=",
+      "Fingerprint": "j3k4bfi69f",
+      "Integrity": "v2UmgBQMok0BrOxvGY6Q68yH2AE5B2K9460HFvpKvVM=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "/home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem.Client/obj/Debug/net9.0/compressed/z5a27m5phi-wn0exao2lk.gz"
+      "OriginalItemSpec": "/home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem.Client/obj/Debug/net9.0/compressed/z5a27m5phi-8ugaaey93j.gz"
     },
     {
       "Identity": "/home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem.Client/obj/Debug/net9.0/compressed/z7xebc25is-t8hgoms9l8.gz",
@@ -10095,12 +10095,12 @@
       "OriginalItemSpec": "/home/augustoviegascs/.nuget/packages/radzen.blazor/8.1.6/staticwebassets/css/standard-base.css"
     },
     {
-      "Identity": "/home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem/obj/Debug/net9.0/compressed/aiayddyl0l-1rkm90qwvo.gz",
+      "Identity": "/home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem/obj/Debug/net9.0/compressed/aiayddyl0l-qm0vopy8k7.gz",
       "SourceId": "ERPSystem",
       "SourceType": "Computed",
       "ContentRoot": "/home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem/obj/Debug/net9.0/compressed/",
       "BasePath": "_content/ERPSystem",
-      "RelativePath": "ERPSystem#[.{fingerprint=1rkm90qwvo}]!.bundle.scp.css.gz",
+      "RelativePath": "ERPSystem#[.{fingerprint=qm0vopy8k7}]!.bundle.scp.css.gz",
       "AssetKind": "All",
       "AssetMode": "Reference",
       "AssetRole": "Alternative",
@@ -10109,8 +10109,8 @@
       "RelatedAsset": "/home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem/obj/Debug/net9.0/scopedcss/projectbundle/ERPSystem.bundle.scp.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "0hhjyzmseq",
-      "Integrity": "NA1aweviswphoYWnWHjIvuhpltUTqj56jfuJ+rc3wHQ=",
+      "Fingerprint": "t4sfuyi0u5",
+      "Integrity": "LQJ3j6o1BXZ5EVLY97Ohokee/psFhZvnWs4G99LOoww=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem/obj/Debug/net9.0/scopedcss/projectbundle/ERPSystem.bundle.scp.css"
@@ -10263,12 +10263,12 @@
       "OriginalItemSpec": "/home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map"
     },
     {
-      "Identity": "/home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem/obj/Debug/net9.0/compressed/cpk19lfq8c-1rkm90qwvo.gz",
+      "Identity": "/home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem/obj/Debug/net9.0/compressed/cpk19lfq8c-qm0vopy8k7.gz",
       "SourceId": "ERPSystem",
       "SourceType": "Computed",
       "ContentRoot": "/home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem/obj/Debug/net9.0/compressed/",
       "BasePath": "_content/ERPSystem",
-      "RelativePath": "ERPSystem#[.{fingerprint=1rkm90qwvo}]?.styles.css.gz",
+      "RelativePath": "ERPSystem#[.{fingerprint=qm0vopy8k7}]?.styles.css.gz",
       "AssetKind": "All",
       "AssetMode": "CurrentProject",
       "AssetRole": "Alternative",
@@ -10277,8 +10277,8 @@
       "RelatedAsset": "/home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem/obj/Debug/net9.0/scopedcss/bundle/ERPSystem.styles.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "0hhjyzmseq",
-      "Integrity": "NA1aweviswphoYWnWHjIvuhpltUTqj56jfuJ+rc3wHQ=",
+      "Fingerprint": "t4sfuyi0u5",
+      "Integrity": "LQJ3j6o1BXZ5EVLY97Ohokee/psFhZvnWs4G99LOoww=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem/obj/Debug/net9.0/scopedcss/bundle/ERPSystem.styles.css"
@@ -11222,8 +11222,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ApplicationBundle",
-      "Fingerprint": "1rkm90qwvo",
-      "Integrity": "c6T6axSihbeQw1wNMJj5RVl8EfcAHgd6d7aNzgkcQ+M=",
+      "Fingerprint": "qm0vopy8k7",
+      "Integrity": "Dq/G6c0ZSD2KcKCG3GO4+fdnffz24m3U2JPB9hYusQc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem/obj/Debug/net9.0/scopedcss/bundle/ERPSystem.styles.css"
@@ -11243,8 +11243,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "ScopedCss",
       "AssetTraitValue": "ProjectBundle",
-      "Fingerprint": "1rkm90qwvo",
-      "Integrity": "c6T6axSihbeQw1wNMJj5RVl8EfcAHgd6d7aNzgkcQ+M=",
+      "Fingerprint": "qm0vopy8k7",
+      "Integrity": "Dq/G6c0ZSD2KcKCG3GO4+fdnffz24m3U2JPB9hYusQc=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "/home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem/obj/Debug/net9.0/scopedcss/projectbundle/ERPSystem.bundle.scp.css"
@@ -18352,28 +18352,28 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"JNxCVj9+BAb9NXdTC2vz4jbcg6iOwg7YDeI6KhyVx8I=\""
+          "Value": "\"QOrD/aiWxKHnhtVi1ybggzxgeFKnWoVMoED5bXbWsCc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 30 Oct 2025 00:41:23 GMT"
+          "Value": "Thu, 30 Oct 2025 01:18:58 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-JNxCVj9+BAb9NXdTC2vz4jbcg6iOwg7YDeI6KhyVx8I="
+          "Value": "sha256-QOrD/aiWxKHnhtVi1ybggzxgeFKnWoVMoED5bXbWsCc="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json",
-      "AssetFile": "/home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem.Client/obj/Debug/net9.0/compressed/z5a27m5phi-wn0exao2lk.gz",
+      "AssetFile": "/home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem.Client/obj/Debug/net9.0/compressed/z5a27m5phi-8ugaaey93j.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000080612656"
+          "Quality": "0.000080586671"
         }
       ],
       "ResponseHeaders": [
@@ -18391,15 +18391,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12404"
+          "Value": "12408"
         },
         {
           "Name": "ETag",
-          "Value": "\"AQpb2ezU7FTApkFuR6MwctVebAQg1fI6HQH9Y/999iU=\""
+          "Value": "\"v2UmgBQMok0BrOxvGY6Q68yH2AE5B2K9460HFvpKvVM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 30 Oct 2025 00:39:30 GMT"
+          "Value": "Thu, 30 Oct 2025 01:17:48 GMT"
         },
         {
           "Name": "Vary",
@@ -18411,19 +18411,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"JNxCVj9+BAb9NXdTC2vz4jbcg6iOwg7YDeI6KhyVx8I=\""
+          "Value": "W/\"QOrD/aiWxKHnhtVi1ybggzxgeFKnWoVMoED5bXbWsCc=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-JNxCVj9+BAb9NXdTC2vz4jbcg6iOwg7YDeI6KhyVx8I="
+          "Value": "sha256-QOrD/aiWxKHnhtVi1ybggzxgeFKnWoVMoED5bXbWsCc="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "/home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem.Client/obj/Debug/net9.0/compressed/z5a27m5phi-wn0exao2lk.gz",
+      "AssetFile": "/home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem.Client/obj/Debug/net9.0/compressed/z5a27m5phi-8ugaaey93j.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -18440,7 +18440,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12404"
+          "Value": "12408"
         },
         {
           "Name": "Content-Type",
@@ -18448,11 +18448,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"AQpb2ezU7FTApkFuR6MwctVebAQg1fI6HQH9Y/999iU=\""
+          "Value": "\"v2UmgBQMok0BrOxvGY6Q68yH2AE5B2K9460HFvpKvVM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 30 Oct 2025 00:39:30 GMT"
+          "Value": "Thu, 30 Oct 2025 01:17:48 GMT"
         },
         {
           "Name": "Vary",
@@ -18462,7 +18462,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-AQpb2ezU7FTApkFuR6MwctVebAQg1fI6HQH9Y/999iU="
+          "Value": "sha256-v2UmgBQMok0BrOxvGY6Q68yH2AE5B2K9460HFvpKvVM="
         }
       ]
     },
@@ -20392,305 +20392,7 @@
       ]
     },
     {
-      "Route": "_framework/ERPSystem.Client.3sqb3g7d93.pdb",
-      "AssetFile": "/home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem.Client/bin/Debug/net9.0/wwwroot/_framework/ERPSystem.Client.pdb",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "16544"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Uy/Xb8LY8o9aA8HxQMPdp4CzUZE13qT3b32fTp9H4P8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 30 Oct 2025 00:36:03 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "3sqb3g7d93"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-Uy/Xb8LY8o9aA8HxQMPdp4CzUZE13qT3b32fTp9H4P8="
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/ERPSystem.Client.pdb"
-        }
-      ]
-    },
-    {
-      "Route": "_framework/ERPSystem.Client.3sqb3g7d93.pdb",
-      "AssetFile": "/home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem.Client/obj/Debug/net9.0/compressed/z1pr4pldu9-3sqb3g7d93.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000094224065"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "10612"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"no6D92b/UiFO0LuDceJjLLXhHkrsRgPo02upyfNeQWw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 30 Oct 2025 00:36:04 GMT"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"Uy/Xb8LY8o9aA8HxQMPdp4CzUZE13qT3b32fTp9H4P8=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "3sqb3g7d93"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-Uy/Xb8LY8o9aA8HxQMPdp4CzUZE13qT3b32fTp9H4P8="
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/ERPSystem.Client.pdb"
-        }
-      ]
-    },
-    {
-      "Route": "_framework/ERPSystem.Client.3sqb3g7d93.pdb.gz",
-      "AssetFile": "/home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem.Client/obj/Debug/net9.0/compressed/z1pr4pldu9-3sqb3g7d93.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "10612"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"no6D92b/UiFO0LuDceJjLLXhHkrsRgPo02upyfNeQWw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 30 Oct 2025 00:36:04 GMT"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "3sqb3g7d93"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-no6D92b/UiFO0LuDceJjLLXhHkrsRgPo02upyfNeQWw="
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/ERPSystem.Client.pdb.gz"
-        }
-      ]
-    },
-    {
-      "Route": "_framework/ERPSystem.Client.pdb",
-      "AssetFile": "/home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem.Client/bin/Debug/net9.0/wwwroot/_framework/ERPSystem.Client.pdb",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "16544"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Uy/Xb8LY8o9aA8HxQMPdp4CzUZE13qT3b32fTp9H4P8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 30 Oct 2025 00:36:03 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-Uy/Xb8LY8o9aA8HxQMPdp4CzUZE13qT3b32fTp9H4P8="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/ERPSystem.Client.pdb",
-      "AssetFile": "/home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem.Client/obj/Debug/net9.0/compressed/z1pr4pldu9-3sqb3g7d93.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000094224065"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "10612"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"no6D92b/UiFO0LuDceJjLLXhHkrsRgPo02upyfNeQWw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 30 Oct 2025 00:36:04 GMT"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"Uy/Xb8LY8o9aA8HxQMPdp4CzUZE13qT3b32fTp9H4P8=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-Uy/Xb8LY8o9aA8HxQMPdp4CzUZE13qT3b32fTp9H4P8="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/ERPSystem.Client.pdb.gz",
-      "AssetFile": "/home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem.Client/obj/Debug/net9.0/compressed/z1pr4pldu9-3sqb3g7d93.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "10612"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"no6D92b/UiFO0LuDceJjLLXhHkrsRgPo02upyfNeQWw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 30 Oct 2025 00:36:04 GMT"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-no6D92b/UiFO0LuDceJjLLXhHkrsRgPo02upyfNeQWw="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/ERPSystem.Client.udf2z0hdmw.wasm",
+      "Route": "_framework/ERPSystem.Client.mb72wayys6.wasm",
       "AssetFile": "/home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem.Client/bin/Debug/net9.0/wwwroot/_framework/ERPSystem.Client.wasm",
       "Selectors": [],
       "ResponseHeaders": [
@@ -20712,21 +20414,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Yg0SQuM+NGQklOLjKLf+7LT4jjQrlTPjz14qtM10pUg=\""
+          "Value": "\"bkbni+RwG0yHGUOie6G2x5NgALrYJ7woFocfRE2DObU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 30 Oct 2025 00:36:03 GMT"
+          "Value": "Thu, 30 Oct 2025 01:17:48 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "udf2z0hdmw"
+          "Value": "mb72wayys6"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Yg0SQuM+NGQklOLjKLf+7LT4jjQrlTPjz14qtM10pUg="
+          "Value": "sha256-bkbni+RwG0yHGUOie6G2x5NgALrYJ7woFocfRE2DObU="
         },
         {
           "Name": "label",
@@ -20735,13 +20437,13 @@
       ]
     },
     {
-      "Route": "_framework/ERPSystem.Client.udf2z0hdmw.wasm",
-      "AssetFile": "/home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem.Client/obj/Debug/net9.0/compressed/rxmy1n3x72-udf2z0hdmw.gz",
+      "Route": "_framework/ERPSystem.Client.mb72wayys6.wasm",
+      "AssetFile": "/home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem.Client/obj/Debug/net9.0/compressed/rxmy1n3x72-mb72wayys6.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000263504611"
+          "Quality": "0.000263227165"
         }
       ],
       "ResponseHeaders": [
@@ -20759,15 +20461,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3794"
+          "Value": "3798"
         },
         {
           "Name": "ETag",
-          "Value": "\"3kB0IHuO9kB4qsZFZPfLxvwclc8sCvObNe7krqXLF98=\""
+          "Value": "\"V4o4Bk62hfZHokOs6btj0r1NmEZyhM1g/CjFX1ie+TI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 30 Oct 2025 00:36:04 GMT"
+          "Value": "Thu, 30 Oct 2025 01:17:48 GMT"
         },
         {
           "Name": "Vary",
@@ -20779,17 +20481,17 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"Yg0SQuM+NGQklOLjKLf+7LT4jjQrlTPjz14qtM10pUg=\""
+          "Value": "W/\"bkbni+RwG0yHGUOie6G2x5NgALrYJ7woFocfRE2DObU=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "udf2z0hdmw"
+          "Value": "mb72wayys6"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Yg0SQuM+NGQklOLjKLf+7LT4jjQrlTPjz14qtM10pUg="
+          "Value": "sha256-bkbni+RwG0yHGUOie6G2x5NgALrYJ7woFocfRE2DObU="
         },
         {
           "Name": "label",
@@ -20798,8 +20500,8 @@
       ]
     },
     {
-      "Route": "_framework/ERPSystem.Client.udf2z0hdmw.wasm.gz",
-      "AssetFile": "/home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem.Client/obj/Debug/net9.0/compressed/rxmy1n3x72-udf2z0hdmw.gz",
+      "Route": "_framework/ERPSystem.Client.mb72wayys6.wasm.gz",
+      "AssetFile": "/home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem.Client/obj/Debug/net9.0/compressed/rxmy1n3x72-mb72wayys6.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -20816,7 +20518,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3794"
+          "Value": "3798"
         },
         {
           "Name": "Content-Type",
@@ -20824,11 +20526,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"3kB0IHuO9kB4qsZFZPfLxvwclc8sCvObNe7krqXLF98=\""
+          "Value": "\"V4o4Bk62hfZHokOs6btj0r1NmEZyhM1g/CjFX1ie+TI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 30 Oct 2025 00:36:04 GMT"
+          "Value": "Thu, 30 Oct 2025 01:17:48 GMT"
         },
         {
           "Name": "Vary",
@@ -20838,11 +20540,11 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "udf2z0hdmw"
+          "Value": "mb72wayys6"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-3kB0IHuO9kB4qsZFZPfLxvwclc8sCvObNe7krqXLF98="
+          "Value": "sha256-V4o4Bk62hfZHokOs6btj0r1NmEZyhM1g/CjFX1ie+TI="
         },
         {
           "Name": "label",
@@ -20851,6 +20553,143 @@
       ]
     },
     {
+      "Route": "_framework/ERPSystem.Client.pdb",
+      "AssetFile": "/home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem.Client/bin/Debug/net9.0/wwwroot/_framework/ERPSystem.Client.pdb",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16548"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UgBbVFBSkxhQBlBRMeEOQXycp1lbD+rrvZDC1Iv/sS0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 30 Oct 2025 01:17:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UgBbVFBSkxhQBlBRMeEOQXycp1lbD+rrvZDC1Iv/sS0="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/ERPSystem.Client.pdb",
+      "AssetFile": "/home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem.Client/obj/Debug/net9.0/compressed/z1pr4pldu9-ygjr9j55si.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000094188566"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10616"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vsYWuCfDjrJbDw0vxoXBCyt0IxDXF1m/H3XAQQcwVCM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 30 Oct 2025 01:17:48 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"UgBbVFBSkxhQBlBRMeEOQXycp1lbD+rrvZDC1Iv/sS0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UgBbVFBSkxhQBlBRMeEOQXycp1lbD+rrvZDC1Iv/sS0="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/ERPSystem.Client.pdb.gz",
+      "AssetFile": "/home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem.Client/obj/Debug/net9.0/compressed/z1pr4pldu9-ygjr9j55si.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10616"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vsYWuCfDjrJbDw0vxoXBCyt0IxDXF1m/H3XAQQcwVCM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 30 Oct 2025 01:17:48 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vsYWuCfDjrJbDw0vxoXBCyt0IxDXF1m/H3XAQQcwVCM="
+        }
+      ]
+    },
+    {
       "Route": "_framework/ERPSystem.Client.wasm",
       "AssetFile": "/home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem.Client/bin/Debug/net9.0/wwwroot/_framework/ERPSystem.Client.wasm",
       "Selectors": [],
@@ -20873,28 +20712,28 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Yg0SQuM+NGQklOLjKLf+7LT4jjQrlTPjz14qtM10pUg=\""
+          "Value": "\"bkbni+RwG0yHGUOie6G2x5NgALrYJ7woFocfRE2DObU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 30 Oct 2025 00:36:03 GMT"
+          "Value": "Thu, 30 Oct 2025 01:17:48 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Yg0SQuM+NGQklOLjKLf+7LT4jjQrlTPjz14qtM10pUg="
+          "Value": "sha256-bkbni+RwG0yHGUOie6G2x5NgALrYJ7woFocfRE2DObU="
         }
       ]
     },
     {
       "Route": "_framework/ERPSystem.Client.wasm",
-      "AssetFile": "/home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem.Client/obj/Debug/net9.0/compressed/rxmy1n3x72-udf2z0hdmw.gz",
+      "AssetFile": "/home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem.Client/obj/Debug/net9.0/compressed/rxmy1n3x72-mb72wayys6.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000263504611"
+          "Quality": "0.000263227165"
         }
       ],
       "ResponseHeaders": [
@@ -20912,15 +20751,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3794"
+          "Value": "3798"
         },
         {
           "Name": "ETag",
-          "Value": "\"3kB0IHuO9kB4qsZFZPfLxvwclc8sCvObNe7krqXLF98=\""
+          "Value": "\"V4o4Bk62hfZHokOs6btj0r1NmEZyhM1g/CjFX1ie+TI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 30 Oct 2025 00:36:04 GMT"
+          "Value": "Thu, 30 Oct 2025 01:17:48 GMT"
         },
         {
           "Name": "Vary",
@@ -20932,19 +20771,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"Yg0SQuM+NGQklOLjKLf+7LT4jjQrlTPjz14qtM10pUg=\""
+          "Value": "W/\"bkbni+RwG0yHGUOie6G2x5NgALrYJ7woFocfRE2DObU=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Yg0SQuM+NGQklOLjKLf+7LT4jjQrlTPjz14qtM10pUg="
+          "Value": "sha256-bkbni+RwG0yHGUOie6G2x5NgALrYJ7woFocfRE2DObU="
         }
       ]
     },
     {
       "Route": "_framework/ERPSystem.Client.wasm.gz",
-      "AssetFile": "/home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem.Client/obj/Debug/net9.0/compressed/rxmy1n3x72-udf2z0hdmw.gz",
+      "AssetFile": "/home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem.Client/obj/Debug/net9.0/compressed/rxmy1n3x72-mb72wayys6.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -20961,7 +20800,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3794"
+          "Value": "3798"
         },
         {
           "Name": "Content-Type",
@@ -20969,11 +20808,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"3kB0IHuO9kB4qsZFZPfLxvwclc8sCvObNe7krqXLF98=\""
+          "Value": "\"V4o4Bk62hfZHokOs6btj0r1NmEZyhM1g/CjFX1ie+TI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 30 Oct 2025 00:36:04 GMT"
+          "Value": "Thu, 30 Oct 2025 01:17:48 GMT"
         },
         {
           "Name": "Vary",
@@ -20983,7 +20822,168 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-3kB0IHuO9kB4qsZFZPfLxvwclc8sCvObNe7krqXLF98="
+          "Value": "sha256-V4o4Bk62hfZHokOs6btj0r1NmEZyhM1g/CjFX1ie+TI="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/ERPSystem.Client.ygjr9j55si.pdb",
+      "AssetFile": "/home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem.Client/bin/Debug/net9.0/wwwroot/_framework/ERPSystem.Client.pdb",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16548"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UgBbVFBSkxhQBlBRMeEOQXycp1lbD+rrvZDC1Iv/sS0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 30 Oct 2025 01:17:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ygjr9j55si"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UgBbVFBSkxhQBlBRMeEOQXycp1lbD+rrvZDC1Iv/sS0="
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/ERPSystem.Client.pdb"
+        }
+      ]
+    },
+    {
+      "Route": "_framework/ERPSystem.Client.ygjr9j55si.pdb",
+      "AssetFile": "/home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem.Client/obj/Debug/net9.0/compressed/z1pr4pldu9-ygjr9j55si.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000094188566"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10616"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vsYWuCfDjrJbDw0vxoXBCyt0IxDXF1m/H3XAQQcwVCM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 30 Oct 2025 01:17:48 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"UgBbVFBSkxhQBlBRMeEOQXycp1lbD+rrvZDC1Iv/sS0=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ygjr9j55si"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UgBbVFBSkxhQBlBRMeEOQXycp1lbD+rrvZDC1Iv/sS0="
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/ERPSystem.Client.pdb"
+        }
+      ]
+    },
+    {
+      "Route": "_framework/ERPSystem.Client.ygjr9j55si.pdb.gz",
+      "AssetFile": "/home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem.Client/obj/Debug/net9.0/compressed/z1pr4pldu9-ygjr9j55si.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10616"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vsYWuCfDjrJbDw0vxoXBCyt0IxDXF1m/H3XAQQcwVCM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 30 Oct 2025 01:17:48 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ygjr9j55si"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vsYWuCfDjrJbDw0vxoXBCyt0IxDXF1m/H3XAQQcwVCM="
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/ERPSystem.Client.pdb.gz"
         }
       ]
     },
@@ -79992,13 +79992,13 @@
       ]
     },
     {
-      "Route": "ERPSystem.1rkm90qwvo.bundle.scp.css",
-      "AssetFile": "/home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem/obj/Debug/net9.0/compressed/aiayddyl0l-1rkm90qwvo.gz",
+      "Route": "ERPSystem.bundle.scp.css",
+      "AssetFile": "/home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem/obj/Debug/net9.0/compressed/aiayddyl0l-qm0vopy8k7.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000565610860"
+          "Quality": "0.000547045952"
         }
       ],
       "ResponseHeaders": [
@@ -80008,19 +80008,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1767"
+          "Value": "1827"
         },
         {
           "Name": "ETag",
-          "Value": "\"NA1aweviswphoYWnWHjIvuhpltUTqj56jfuJ+rc3wHQ=\""
+          "Value": "\"LQJ3j6o1BXZ5EVLY97Ohokee/psFhZvnWs4G99LOoww=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 30 Oct 2025 00:30:40 GMT"
+          "Value": "Thu, 30 Oct 2025 01:14:06 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
+          "Value": "no-cache"
         },
         {
           "Name": "Content-Encoding",
@@ -80036,26 +80036,18 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"c6T6axSihbeQw1wNMJj5RVl8EfcAHgd6d7aNzgkcQ+M=\""
+          "Value": "W/\"Dq/G6c0ZSD2KcKCG3GO4+fdnffz24m3U2JPB9hYusQc=\""
         }
       ],
       "EndpointProperties": [
         {
-          "Name": "fingerprint",
-          "Value": "1rkm90qwvo"
-        },
-        {
-          "Name": "label",
-          "Value": "ERPSystem.bundle.scp.css"
-        },
-        {
           "Name": "integrity",
-          "Value": "sha256-c6T6axSihbeQw1wNMJj5RVl8EfcAHgd6d7aNzgkcQ+M="
+          "Value": "sha256-Dq/G6c0ZSD2KcKCG3GO4+fdnffz24m3U2JPB9hYusQc="
         }
       ]
     },
     {
-      "Route": "ERPSystem.1rkm90qwvo.bundle.scp.css",
+      "Route": "ERPSystem.bundle.scp.css",
       "AssetFile": "/home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem/obj/Debug/net9.0/scopedcss/projectbundle/ERPSystem.bundle.scp.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -80065,7 +80057,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5760"
+          "Value": "6017"
         },
         {
           "Name": "Content-Type",
@@ -80073,11 +80065,156 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"c6T6axSihbeQw1wNMJj5RVl8EfcAHgd6d7aNzgkcQ+M=\""
+          "Value": "\"Dq/G6c0ZSD2KcKCG3GO4+fdnffz24m3U2JPB9hYusQc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 30 Oct 2025 00:30:40 GMT"
+          "Value": "Thu, 30 Oct 2025 01:14:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Dq/G6c0ZSD2KcKCG3GO4+fdnffz24m3U2JPB9hYusQc="
+        }
+      ]
+    },
+    {
+      "Route": "ERPSystem.bundle.scp.css.gz",
+      "AssetFile": "/home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem/obj/Debug/net9.0/compressed/aiayddyl0l-qm0vopy8k7.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1827"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LQJ3j6o1BXZ5EVLY97Ohokee/psFhZvnWs4G99LOoww=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 30 Oct 2025 01:14:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LQJ3j6o1BXZ5EVLY97Ohokee/psFhZvnWs4G99LOoww="
+        }
+      ]
+    },
+    {
+      "Route": "ERPSystem.qm0vopy8k7.bundle.scp.css",
+      "AssetFile": "/home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem/obj/Debug/net9.0/compressed/aiayddyl0l-qm0vopy8k7.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000547045952"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1827"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LQJ3j6o1BXZ5EVLY97Ohokee/psFhZvnWs4G99LOoww=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 30 Oct 2025 01:14:06 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Dq/G6c0ZSD2KcKCG3GO4+fdnffz24m3U2JPB9hYusQc=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qm0vopy8k7"
+        },
+        {
+          "Name": "label",
+          "Value": "ERPSystem.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Dq/G6c0ZSD2KcKCG3GO4+fdnffz24m3U2JPB9hYusQc="
+        }
+      ]
+    },
+    {
+      "Route": "ERPSystem.qm0vopy8k7.bundle.scp.css",
+      "AssetFile": "/home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem/obj/Debug/net9.0/scopedcss/projectbundle/ERPSystem.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6017"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Dq/G6c0ZSD2KcKCG3GO4+fdnffz24m3U2JPB9hYusQc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 30 Oct 2025 01:14:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -80087,7 +80224,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "1rkm90qwvo"
+          "Value": "qm0vopy8k7"
         },
         {
           "Name": "label",
@@ -80095,13 +80232,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-c6T6axSihbeQw1wNMJj5RVl8EfcAHgd6d7aNzgkcQ+M="
+          "Value": "sha256-Dq/G6c0ZSD2KcKCG3GO4+fdnffz24m3U2JPB9hYusQc="
         }
       ]
     },
     {
-      "Route": "ERPSystem.1rkm90qwvo.bundle.scp.css.gz",
-      "AssetFile": "/home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem/obj/Debug/net9.0/compressed/aiayddyl0l-1rkm90qwvo.gz",
+      "Route": "ERPSystem.qm0vopy8k7.bundle.scp.css.gz",
+      "AssetFile": "/home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem/obj/Debug/net9.0/compressed/aiayddyl0l-qm0vopy8k7.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -80110,7 +80247,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1767"
+          "Value": "1827"
         },
         {
           "Name": "Content-Type",
@@ -80118,11 +80255,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"NA1aweviswphoYWnWHjIvuhpltUTqj56jfuJ+rc3wHQ=\""
+          "Value": "\"LQJ3j6o1BXZ5EVLY97Ohokee/psFhZvnWs4G99LOoww=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 30 Oct 2025 00:30:40 GMT"
+          "Value": "Thu, 30 Oct 2025 01:14:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -80140,7 +80277,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "1rkm90qwvo"
+          "Value": "qm0vopy8k7"
         },
         {
           "Name": "label",
@@ -80148,18 +80285,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-NA1aweviswphoYWnWHjIvuhpltUTqj56jfuJ+rc3wHQ="
+          "Value": "sha256-LQJ3j6o1BXZ5EVLY97Ohokee/psFhZvnWs4G99LOoww="
         }
       ]
     },
     {
-      "Route": "ERPSystem.1rkm90qwvo.styles.css",
-      "AssetFile": "/home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem/obj/Debug/net9.0/compressed/cpk19lfq8c-1rkm90qwvo.gz",
+      "Route": "ERPSystem.qm0vopy8k7.styles.css",
+      "AssetFile": "/home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem/obj/Debug/net9.0/compressed/cpk19lfq8c-qm0vopy8k7.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000565610860"
+          "Quality": "0.000547045952"
         }
       ],
       "ResponseHeaders": [
@@ -80169,15 +80306,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1767"
+          "Value": "1827"
         },
         {
           "Name": "ETag",
-          "Value": "\"NA1aweviswphoYWnWHjIvuhpltUTqj56jfuJ+rc3wHQ=\""
+          "Value": "\"LQJ3j6o1BXZ5EVLY97Ohokee/psFhZvnWs4G99LOoww=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 30 Oct 2025 00:30:40 GMT"
+          "Value": "Thu, 30 Oct 2025 01:14:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -80197,13 +80334,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"c6T6axSihbeQw1wNMJj5RVl8EfcAHgd6d7aNzgkcQ+M=\""
+          "Value": "W/\"Dq/G6c0ZSD2KcKCG3GO4+fdnffz24m3U2JPB9hYusQc=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "1rkm90qwvo"
+          "Value": "qm0vopy8k7"
         },
         {
           "Name": "label",
@@ -80211,12 +80348,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-c6T6axSihbeQw1wNMJj5RVl8EfcAHgd6d7aNzgkcQ+M="
+          "Value": "sha256-Dq/G6c0ZSD2KcKCG3GO4+fdnffz24m3U2JPB9hYusQc="
         }
       ]
     },
     {
-      "Route": "ERPSystem.1rkm90qwvo.styles.css",
+      "Route": "ERPSystem.qm0vopy8k7.styles.css",
       "AssetFile": "/home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem/obj/Debug/net9.0/scopedcss/bundle/ERPSystem.styles.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -80226,7 +80363,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5760"
+          "Value": "6017"
         },
         {
           "Name": "Content-Type",
@@ -80234,11 +80371,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"c6T6axSihbeQw1wNMJj5RVl8EfcAHgd6d7aNzgkcQ+M=\""
+          "Value": "\"Dq/G6c0ZSD2KcKCG3GO4+fdnffz24m3U2JPB9hYusQc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 30 Oct 2025 00:30:40 GMT"
+          "Value": "Thu, 30 Oct 2025 01:14:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -80248,7 +80385,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "1rkm90qwvo"
+          "Value": "qm0vopy8k7"
         },
         {
           "Name": "label",
@@ -80256,13 +80393,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-c6T6axSihbeQw1wNMJj5RVl8EfcAHgd6d7aNzgkcQ+M="
+          "Value": "sha256-Dq/G6c0ZSD2KcKCG3GO4+fdnffz24m3U2JPB9hYusQc="
         }
       ]
     },
     {
-      "Route": "ERPSystem.1rkm90qwvo.styles.css.gz",
-      "AssetFile": "/home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem/obj/Debug/net9.0/compressed/cpk19lfq8c-1rkm90qwvo.gz",
+      "Route": "ERPSystem.qm0vopy8k7.styles.css.gz",
+      "AssetFile": "/home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem/obj/Debug/net9.0/compressed/cpk19lfq8c-qm0vopy8k7.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -80271,7 +80408,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1767"
+          "Value": "1827"
         },
         {
           "Name": "Content-Type",
@@ -80279,11 +80416,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"NA1aweviswphoYWnWHjIvuhpltUTqj56jfuJ+rc3wHQ=\""
+          "Value": "\"LQJ3j6o1BXZ5EVLY97Ohokee/psFhZvnWs4G99LOoww=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 30 Oct 2025 00:30:40 GMT"
+          "Value": "Thu, 30 Oct 2025 01:14:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -80301,7 +80438,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "1rkm90qwvo"
+          "Value": "qm0vopy8k7"
         },
         {
           "Name": "label",
@@ -80309,155 +80446,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-NA1aweviswphoYWnWHjIvuhpltUTqj56jfuJ+rc3wHQ="
-        }
-      ]
-    },
-    {
-      "Route": "ERPSystem.bundle.scp.css",
-      "AssetFile": "/home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem/obj/Debug/net9.0/compressed/aiayddyl0l-1rkm90qwvo.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000565610860"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1767"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"NA1aweviswphoYWnWHjIvuhpltUTqj56jfuJ+rc3wHQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 30 Oct 2025 00:30:40 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"c6T6axSihbeQw1wNMJj5RVl8EfcAHgd6d7aNzgkcQ+M=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-c6T6axSihbeQw1wNMJj5RVl8EfcAHgd6d7aNzgkcQ+M="
-        }
-      ]
-    },
-    {
-      "Route": "ERPSystem.bundle.scp.css",
-      "AssetFile": "/home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem/obj/Debug/net9.0/scopedcss/projectbundle/ERPSystem.bundle.scp.css",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "5760"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"c6T6axSihbeQw1wNMJj5RVl8EfcAHgd6d7aNzgkcQ+M=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 30 Oct 2025 00:30:40 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-c6T6axSihbeQw1wNMJj5RVl8EfcAHgd6d7aNzgkcQ+M="
-        }
-      ]
-    },
-    {
-      "Route": "ERPSystem.bundle.scp.css.gz",
-      "AssetFile": "/home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem/obj/Debug/net9.0/compressed/aiayddyl0l-1rkm90qwvo.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "1767"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/css"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"NA1aweviswphoYWnWHjIvuhpltUTqj56jfuJ+rc3wHQ=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 30 Oct 2025 00:30:40 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-NA1aweviswphoYWnWHjIvuhpltUTqj56jfuJ+rc3wHQ="
+          "Value": "sha256-LQJ3j6o1BXZ5EVLY97Ohokee/psFhZvnWs4G99LOoww="
         }
       ]
     },
     {
       "Route": "ERPSystem.styles.css",
-      "AssetFile": "/home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem/obj/Debug/net9.0/compressed/cpk19lfq8c-1rkm90qwvo.gz",
+      "AssetFile": "/home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem/obj/Debug/net9.0/compressed/cpk19lfq8c-qm0vopy8k7.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000565610860"
+          "Quality": "0.000547045952"
         }
       ],
       "ResponseHeaders": [
@@ -80467,15 +80467,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1767"
+          "Value": "1827"
         },
         {
           "Name": "ETag",
-          "Value": "\"NA1aweviswphoYWnWHjIvuhpltUTqj56jfuJ+rc3wHQ=\""
+          "Value": "\"LQJ3j6o1BXZ5EVLY97Ohokee/psFhZvnWs4G99LOoww=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 30 Oct 2025 00:30:40 GMT"
+          "Value": "Thu, 30 Oct 2025 01:14:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -80495,13 +80495,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"c6T6axSihbeQw1wNMJj5RVl8EfcAHgd6d7aNzgkcQ+M=\""
+          "Value": "W/\"Dq/G6c0ZSD2KcKCG3GO4+fdnffz24m3U2JPB9hYusQc=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-c6T6axSihbeQw1wNMJj5RVl8EfcAHgd6d7aNzgkcQ+M="
+          "Value": "sha256-Dq/G6c0ZSD2KcKCG3GO4+fdnffz24m3U2JPB9hYusQc="
         }
       ]
     },
@@ -80516,7 +80516,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "5760"
+          "Value": "6017"
         },
         {
           "Name": "Content-Type",
@@ -80524,11 +80524,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"c6T6axSihbeQw1wNMJj5RVl8EfcAHgd6d7aNzgkcQ+M=\""
+          "Value": "\"Dq/G6c0ZSD2KcKCG3GO4+fdnffz24m3U2JPB9hYusQc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 30 Oct 2025 00:30:40 GMT"
+          "Value": "Thu, 30 Oct 2025 01:14:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -80538,13 +80538,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-c6T6axSihbeQw1wNMJj5RVl8EfcAHgd6d7aNzgkcQ+M="
+          "Value": "sha256-Dq/G6c0ZSD2KcKCG3GO4+fdnffz24m3U2JPB9hYusQc="
         }
       ]
     },
     {
       "Route": "ERPSystem.styles.css.gz",
-      "AssetFile": "/home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem/obj/Debug/net9.0/compressed/cpk19lfq8c-1rkm90qwvo.gz",
+      "AssetFile": "/home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem/obj/Debug/net9.0/compressed/cpk19lfq8c-qm0vopy8k7.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -80553,7 +80553,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1767"
+          "Value": "1827"
         },
         {
           "Name": "Content-Type",
@@ -80561,11 +80561,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"NA1aweviswphoYWnWHjIvuhpltUTqj56jfuJ+rc3wHQ=\""
+          "Value": "\"LQJ3j6o1BXZ5EVLY97Ohokee/psFhZvnWs4G99LOoww=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 30 Oct 2025 00:30:40 GMT"
+          "Value": "Thu, 30 Oct 2025 01:14:06 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -80583,7 +80583,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-NA1aweviswphoYWnWHjIvuhpltUTqj56jfuJ+rc3wHQ="
+          "Value": "sha256-LQJ3j6o1BXZ5EVLY97Ohokee/psFhZvnWs4G99LOoww="
         }
       ]
     },

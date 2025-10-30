@@ -2,6 +2,6 @@ using Microsoft.AspNetCore.Components;
 
 namespace ERPSystem.Client.Pages;
 
-public partial class MainMenu : ComponentBase
+public partial class Analyzer : ComponentBase
 {
 }

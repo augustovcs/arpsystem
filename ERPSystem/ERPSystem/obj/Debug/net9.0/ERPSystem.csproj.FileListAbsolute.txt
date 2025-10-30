@@ -101,8 +101,6 @@
 /home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem/obj/Debug/net9.0/compressed/o9m3cx22re-h1s4sie4z3.gz
 /home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem/obj/Debug/net9.0/compressed/6qz0h2vbp8-63fj8s7r0e.gz
 /home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem/obj/Debug/net9.0/compressed/ibkpj7djes-0j3bgjxly4.gz
-/home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem/obj/Debug/net9.0/compressed/cpk19lfq8c-1rkm90qwvo.gz
-/home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem/obj/Debug/net9.0/compressed/aiayddyl0l-1rkm90qwvo.gz
 /home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem/obj/Debug/net9.0/staticwebassets.build.json
 /home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem/obj/Debug/net9.0/staticwebassets.development.json
 /home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem/obj/Debug/net9.0/staticwebassets.build.endpoints.json
@@ -152,3 +150,5 @@
 /home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem/obj/Debug/net9.0/compressed/i1901ftr2x-kp0ueqs315.gz
 /home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem/obj/Debug/net9.0/compressed/6xb9o06z95-35kiubt8li.gz
 /home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem/obj/Debug/net9.0/compressed/t2tvocn0z4-joy0vn8hvj.gz
+/home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem/obj/Debug/net9.0/compressed/cpk19lfq8c-qm0vopy8k7.gz
+/home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem/obj/Debug/net9.0/compressed/aiayddyl0l-qm0vopy8k7.gz

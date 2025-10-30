@@ -4,26 +4,19 @@
 
 <RadzenLayout>
 
-    <RadzenHeader>
+    <RadzenHeader Style="background-color:#2c3034; padding:0; margin: 0; height:3rem; border-bottom: none;">
         <RadzenStack Orientation="Orientation.Horizontal"
                      AlignItems="AlignItems.Center"
-                     
-                     Class="rz-px-3 rz-py-2 rz-bg-primary rz-text-white">
-            
-            <RadzenSidebarToggle Click="@ToggleSidebar" Style="color:white;" />
-            <RadzenIcon Icon="code"/>
-            <RadzenLabel Text="BioAnalyzer"
-                         
-                         Style="font-size:1.3rem; font-weight:600; color:black;"  />
-
+                     Style="padding:0; margin:0; height:100%;">
+            <RadzenIcon Icon="code" Style="margin-left: 2rem;" IconColor="orange"/>
+            <RadzenLabel Text="BioAnalyzer" Style="font-size:1.3rem; font-weight:600; color:white;" />
             <div class="rz-ml-auto">
-                <RadzenLink Path="https://learn.microsoft.com/aspnet/core/" 
-                            Target="_blank"
-                            Text="About"
-                            Style="color:white; text-decoration:none;" />
+                <RadzenLink Path="https://learn.microsoft.com/aspnet/core/" Target="_blank" Text="About" Style="color:white; text-decoration:none; display: none;"  />
             </div>
         </RadzenStack>
     </RadzenHeader>
+
+
 
     <RadzenSidebar @bind="@sidebarExpanded" 
                    Breakpoint="Breakpoint.MdDown"
@@ -39,8 +32,9 @@
         </div>
     </RadzenBody>
 
-    <RadzenFooter Class="rz-bg-primary rz-text-white rz-py-2 rz-text-center">
+    <RadzenFooter Class="rz-bg-primary rz-text-white rz-py-2 rz-text-center" Style="display: none">
         <span>© 2025 - ERPSystem</span>
+        
     </RadzenFooter>
 
 </RadzenLayout>

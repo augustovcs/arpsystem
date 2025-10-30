@@ -6115,306 +6115,8 @@
       ]
     },
     {
-      "Route": "_framework/ERPSystem.Client.3sqb3g7d93.pdb",
-      "AssetFile": "_framework/ERPSystem.Client.3sqb3g7d93.pdb",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "16544"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Uy/Xb8LY8o9aA8HxQMPdp4CzUZE13qT3b32fTp9H4P8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 30 Oct 2025 00:36:03 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "3sqb3g7d93"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-Uy/Xb8LY8o9aA8HxQMPdp4CzUZE13qT3b32fTp9H4P8="
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/ERPSystem.Client.pdb"
-        }
-      ]
-    },
-    {
-      "Route": "_framework/ERPSystem.Client.3sqb3g7d93.pdb",
-      "AssetFile": "_framework/ERPSystem.Client.3sqb3g7d93.pdb.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000094224065"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "10612"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"no6D92b/UiFO0LuDceJjLLXhHkrsRgPo02upyfNeQWw=\""
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"Uy/Xb8LY8o9aA8HxQMPdp4CzUZE13qT3b32fTp9H4P8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 30 Oct 2025 00:36:04 GMT"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "3sqb3g7d93"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-Uy/Xb8LY8o9aA8HxQMPdp4CzUZE13qT3b32fTp9H4P8="
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/ERPSystem.Client.pdb"
-        }
-      ]
-    },
-    {
-      "Route": "_framework/ERPSystem.Client.3sqb3g7d93.pdb.gz",
-      "AssetFile": "_framework/ERPSystem.Client.3sqb3g7d93.pdb.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "10612"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"no6D92b/UiFO0LuDceJjLLXhHkrsRgPo02upyfNeQWw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 30 Oct 2025 00:36:04 GMT"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "3sqb3g7d93"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-no6D92b/UiFO0LuDceJjLLXhHkrsRgPo02upyfNeQWw="
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/ERPSystem.Client.pdb.gz"
-        }
-      ]
-    },
-    {
-      "Route": "_framework/ERPSystem.Client.pdb",
-      "AssetFile": "_framework/ERPSystem.Client.3sqb3g7d93.pdb",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "16544"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Uy/Xb8LY8o9aA8HxQMPdp4CzUZE13qT3b32fTp9H4P8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 30 Oct 2025 00:36:03 GMT"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-Uy/Xb8LY8o9aA8HxQMPdp4CzUZE13qT3b32fTp9H4P8="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/ERPSystem.Client.pdb",
-      "AssetFile": "_framework/ERPSystem.Client.3sqb3g7d93.pdb.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000094224065"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "10612"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"no6D92b/UiFO0LuDceJjLLXhHkrsRgPo02upyfNeQWw=\""
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"Uy/Xb8LY8o9aA8HxQMPdp4CzUZE13qT3b32fTp9H4P8=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 30 Oct 2025 00:36:04 GMT"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-Uy/Xb8LY8o9aA8HxQMPdp4CzUZE13qT3b32fTp9H4P8="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/ERPSystem.Client.pdb.gz",
-      "AssetFile": "_framework/ERPSystem.Client.3sqb3g7d93.pdb.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "10612"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"no6D92b/UiFO0LuDceJjLLXhHkrsRgPo02upyfNeQWw=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Thu, 30 Oct 2025 00:36:04 GMT"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-no6D92b/UiFO0LuDceJjLLXhHkrsRgPo02upyfNeQWw="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/ERPSystem.Client.udf2z0hdmw.wasm",
-      "AssetFile": "_framework/ERPSystem.Client.udf2z0hdmw.wasm",
+      "Route": "_framework/ERPSystem.Client.mb72wayys6.wasm",
+      "AssetFile": "_framework/ERPSystem.Client.mb72wayys6.wasm",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6435,21 +6137,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Yg0SQuM+NGQklOLjKLf+7LT4jjQrlTPjz14qtM10pUg=\""
+          "Value": "\"bkbni+RwG0yHGUOie6G2x5NgALrYJ7woFocfRE2DObU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 30 Oct 2025 00:36:03 GMT"
+          "Value": "Thu, 30 Oct 2025 01:17:48 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "udf2z0hdmw"
+          "Value": "mb72wayys6"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Yg0SQuM+NGQklOLjKLf+7LT4jjQrlTPjz14qtM10pUg="
+          "Value": "sha256-bkbni+RwG0yHGUOie6G2x5NgALrYJ7woFocfRE2DObU="
         },
         {
           "Name": "label",
@@ -6458,13 +6160,13 @@
       ]
     },
     {
-      "Route": "_framework/ERPSystem.Client.udf2z0hdmw.wasm",
-      "AssetFile": "_framework/ERPSystem.Client.udf2z0hdmw.wasm.gz",
+      "Route": "_framework/ERPSystem.Client.mb72wayys6.wasm",
+      "AssetFile": "_framework/ERPSystem.Client.mb72wayys6.wasm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000263504611"
+          "Quality": "0.000263227165"
         }
       ],
       "ResponseHeaders": [
@@ -6482,7 +6184,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3794"
+          "Value": "3798"
         },
         {
           "Name": "Content-Type",
@@ -6490,15 +6192,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"3kB0IHuO9kB4qsZFZPfLxvwclc8sCvObNe7krqXLF98=\""
+          "Value": "\"V4o4Bk62hfZHokOs6btj0r1NmEZyhM1g/CjFX1ie+TI=\""
         },
         {
           "Name": "ETag",
-          "Value": "W/\"Yg0SQuM+NGQklOLjKLf+7LT4jjQrlTPjz14qtM10pUg=\""
+          "Value": "W/\"bkbni+RwG0yHGUOie6G2x5NgALrYJ7woFocfRE2DObU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 30 Oct 2025 00:36:04 GMT"
+          "Value": "Thu, 30 Oct 2025 01:17:48 GMT"
         },
         {
           "Name": "Vary",
@@ -6508,11 +6210,11 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "udf2z0hdmw"
+          "Value": "mb72wayys6"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Yg0SQuM+NGQklOLjKLf+7LT4jjQrlTPjz14qtM10pUg="
+          "Value": "sha256-bkbni+RwG0yHGUOie6G2x5NgALrYJ7woFocfRE2DObU="
         },
         {
           "Name": "label",
@@ -6521,8 +6223,8 @@
       ]
     },
     {
-      "Route": "_framework/ERPSystem.Client.udf2z0hdmw.wasm.gz",
-      "AssetFile": "_framework/ERPSystem.Client.udf2z0hdmw.wasm.gz",
+      "Route": "_framework/ERPSystem.Client.mb72wayys6.wasm.gz",
+      "AssetFile": "_framework/ERPSystem.Client.mb72wayys6.wasm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6539,7 +6241,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3794"
+          "Value": "3798"
         },
         {
           "Name": "Content-Type",
@@ -6547,11 +6249,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"3kB0IHuO9kB4qsZFZPfLxvwclc8sCvObNe7krqXLF98=\""
+          "Value": "\"V4o4Bk62hfZHokOs6btj0r1NmEZyhM1g/CjFX1ie+TI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 30 Oct 2025 00:36:04 GMT"
+          "Value": "Thu, 30 Oct 2025 01:17:48 GMT"
         },
         {
           "Name": "Vary",
@@ -6561,11 +6263,11 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "udf2z0hdmw"
+          "Value": "mb72wayys6"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-3kB0IHuO9kB4qsZFZPfLxvwclc8sCvObNe7krqXLF98="
+          "Value": "sha256-V4o4Bk62hfZHokOs6btj0r1NmEZyhM1g/CjFX1ie+TI="
         },
         {
           "Name": "label",
@@ -6574,8 +6276,145 @@
       ]
     },
     {
+      "Route": "_framework/ERPSystem.Client.pdb",
+      "AssetFile": "_framework/ERPSystem.Client.ygjr9j55si.pdb",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16548"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UgBbVFBSkxhQBlBRMeEOQXycp1lbD+rrvZDC1Iv/sS0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 30 Oct 2025 01:17:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UgBbVFBSkxhQBlBRMeEOQXycp1lbD+rrvZDC1Iv/sS0="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/ERPSystem.Client.pdb",
+      "AssetFile": "_framework/ERPSystem.Client.ygjr9j55si.pdb.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000094188566"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10616"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vsYWuCfDjrJbDw0vxoXBCyt0IxDXF1m/H3XAQQcwVCM=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"UgBbVFBSkxhQBlBRMeEOQXycp1lbD+rrvZDC1Iv/sS0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 30 Oct 2025 01:17:48 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-UgBbVFBSkxhQBlBRMeEOQXycp1lbD+rrvZDC1Iv/sS0="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/ERPSystem.Client.pdb.gz",
+      "AssetFile": "_framework/ERPSystem.Client.ygjr9j55si.pdb.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10616"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vsYWuCfDjrJbDw0vxoXBCyt0IxDXF1m/H3XAQQcwVCM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 30 Oct 2025 01:17:48 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-vsYWuCfDjrJbDw0vxoXBCyt0IxDXF1m/H3XAQQcwVCM="
+        }
+      ]
+    },
+    {
       "Route": "_framework/ERPSystem.Client.wasm",
-      "AssetFile": "_framework/ERPSystem.Client.udf2z0hdmw.wasm",
+      "AssetFile": "_framework/ERPSystem.Client.mb72wayys6.wasm",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6596,28 +6435,28 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Yg0SQuM+NGQklOLjKLf+7LT4jjQrlTPjz14qtM10pUg=\""
+          "Value": "\"bkbni+RwG0yHGUOie6G2x5NgALrYJ7woFocfRE2DObU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 30 Oct 2025 00:36:03 GMT"
+          "Value": "Thu, 30 Oct 2025 01:17:48 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Yg0SQuM+NGQklOLjKLf+7LT4jjQrlTPjz14qtM10pUg="
+          "Value": "sha256-bkbni+RwG0yHGUOie6G2x5NgALrYJ7woFocfRE2DObU="
         }
       ]
     },
     {
       "Route": "_framework/ERPSystem.Client.wasm",
-      "AssetFile": "_framework/ERPSystem.Client.udf2z0hdmw.wasm.gz",
+      "AssetFile": "_framework/ERPSystem.Client.mb72wayys6.wasm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000263504611"
+          "Quality": "0.000263227165"
         }
       ],
       "ResponseHeaders": [
@@ -6635,7 +6474,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3794"
+          "Value": "3798"
         },
         {
           "Name": "Content-Type",
@@ -6643,15 +6482,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"3kB0IHuO9kB4qsZFZPfLxvwclc8sCvObNe7krqXLF98=\""
+          "Value": "\"V4o4Bk62hfZHokOs6btj0r1NmEZyhM1g/CjFX1ie+TI=\""
         },
         {
           "Name": "ETag",
-          "Value": "W/\"Yg0SQuM+NGQklOLjKLf+7LT4jjQrlTPjz14qtM10pUg=\""
+          "Value": "W/\"bkbni+RwG0yHGUOie6G2x5NgALrYJ7woFocfRE2DObU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 30 Oct 2025 00:36:04 GMT"
+          "Value": "Thu, 30 Oct 2025 01:17:48 GMT"
         },
         {
           "Name": "Vary",
@@ -6661,13 +6500,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Yg0SQuM+NGQklOLjKLf+7LT4jjQrlTPjz14qtM10pUg="
+          "Value": "sha256-bkbni+RwG0yHGUOie6G2x5NgALrYJ7woFocfRE2DObU="
         }
       ]
     },
     {
       "Route": "_framework/ERPSystem.Client.wasm.gz",
-      "AssetFile": "_framework/ERPSystem.Client.udf2z0hdmw.wasm.gz",
+      "AssetFile": "_framework/ERPSystem.Client.mb72wayys6.wasm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6684,7 +6523,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "3794"
+          "Value": "3798"
         },
         {
           "Name": "Content-Type",
@@ -6692,11 +6531,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"3kB0IHuO9kB4qsZFZPfLxvwclc8sCvObNe7krqXLF98=\""
+          "Value": "\"V4o4Bk62hfZHokOs6btj0r1NmEZyhM1g/CjFX1ie+TI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 30 Oct 2025 00:36:04 GMT"
+          "Value": "Thu, 30 Oct 2025 01:17:48 GMT"
         },
         {
           "Name": "Vary",
@@ -6706,7 +6545,168 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-3kB0IHuO9kB4qsZFZPfLxvwclc8sCvObNe7krqXLF98="
+          "Value": "sha256-V4o4Bk62hfZHokOs6btj0r1NmEZyhM1g/CjFX1ie+TI="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/ERPSystem.Client.ygjr9j55si.pdb",
+      "AssetFile": "_framework/ERPSystem.Client.ygjr9j55si.pdb",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "16548"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"UgBbVFBSkxhQBlBRMeEOQXycp1lbD+rrvZDC1Iv/sS0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 30 Oct 2025 01:17:48 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ygjr9j55si"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UgBbVFBSkxhQBlBRMeEOQXycp1lbD+rrvZDC1Iv/sS0="
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/ERPSystem.Client.pdb"
+        }
+      ]
+    },
+    {
+      "Route": "_framework/ERPSystem.Client.ygjr9j55si.pdb",
+      "AssetFile": "_framework/ERPSystem.Client.ygjr9j55si.pdb.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000094188566"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10616"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vsYWuCfDjrJbDw0vxoXBCyt0IxDXF1m/H3XAQQcwVCM=\""
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"UgBbVFBSkxhQBlBRMeEOQXycp1lbD+rrvZDC1Iv/sS0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 30 Oct 2025 01:17:48 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ygjr9j55si"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-UgBbVFBSkxhQBlBRMeEOQXycp1lbD+rrvZDC1Iv/sS0="
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/ERPSystem.Client.pdb"
+        }
+      ]
+    },
+    {
+      "Route": "_framework/ERPSystem.Client.ygjr9j55si.pdb.gz",
+      "AssetFile": "_framework/ERPSystem.Client.ygjr9j55si.pdb.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "10616"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"vsYWuCfDjrJbDw0vxoXBCyt0IxDXF1m/H3XAQQcwVCM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 30 Oct 2025 01:17:48 GMT"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ygjr9j55si"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-vsYWuCfDjrJbDw0vxoXBCyt0IxDXF1m/H3XAQQcwVCM="
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/ERPSystem.Client.pdb.gz"
         }
       ]
     },
@@ -63353,17 +63353,17 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"JNxCVj9+BAb9NXdTC2vz4jbcg6iOwg7YDeI6KhyVx8I=\""
+          "Value": "\"QOrD/aiWxKHnhtVi1ybggzxgeFKnWoVMoED5bXbWsCc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 30 Oct 2025 00:41:23 GMT"
+          "Value": "Thu, 30 Oct 2025 01:18:58 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-JNxCVj9+BAb9NXdTC2vz4jbcg6iOwg7YDeI6KhyVx8I="
+          "Value": "sha256-QOrD/aiWxKHnhtVi1ybggzxgeFKnWoVMoED5bXbWsCc="
         }
       ]
     },
@@ -63374,7 +63374,7 @@
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000080612656"
+          "Quality": "0.000080586671"
         }
       ],
       "ResponseHeaders": [
@@ -63392,7 +63392,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12404"
+          "Value": "12408"
         },
         {
           "Name": "Content-Type",
@@ -63400,15 +63400,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"AQpb2ezU7FTApkFuR6MwctVebAQg1fI6HQH9Y/999iU=\""
+          "Value": "\"v2UmgBQMok0BrOxvGY6Q68yH2AE5B2K9460HFvpKvVM=\""
         },
         {
           "Name": "ETag",
-          "Value": "W/\"JNxCVj9+BAb9NXdTC2vz4jbcg6iOwg7YDeI6KhyVx8I=\""
+          "Value": "W/\"QOrD/aiWxKHnhtVi1ybggzxgeFKnWoVMoED5bXbWsCc=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 30 Oct 2025 00:39:30 GMT"
+          "Value": "Thu, 30 Oct 2025 01:17:48 GMT"
         },
         {
           "Name": "Vary",
@@ -63418,7 +63418,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-JNxCVj9+BAb9NXdTC2vz4jbcg6iOwg7YDeI6KhyVx8I="
+          "Value": "sha256-QOrD/aiWxKHnhtVi1ybggzxgeFKnWoVMoED5bXbWsCc="
         }
       ]
     },
@@ -63441,7 +63441,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12404"
+          "Value": "12408"
         },
         {
           "Name": "Content-Type",
@@ -63449,11 +63449,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"AQpb2ezU7FTApkFuR6MwctVebAQg1fI6HQH9Y/999iU=\""
+          "Value": "\"v2UmgBQMok0BrOxvGY6Q68yH2AE5B2K9460HFvpKvVM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 30 Oct 2025 00:39:30 GMT"
+          "Value": "Thu, 30 Oct 2025 01:17:48 GMT"
         },
         {
           "Name": "Vary",
@@ -63463,7 +63463,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-AQpb2ezU7FTApkFuR6MwctVebAQg1fI6HQH9Y/999iU="
+          "Value": "sha256-v2UmgBQMok0BrOxvGY6Q68yH2AE5B2K9460HFvpKvVM="
         }
       ]
     },

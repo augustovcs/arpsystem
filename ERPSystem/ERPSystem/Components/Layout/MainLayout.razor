@@ -1,23 +1,55 @@
 ﻿@inherits LayoutComponentBase
+@using Radzen
+@using Radzen.Blazor;
 
-<div class="page">
-    <div class="sidebar">
-        <NavMenu/>
-    </div>
+<RadzenLayout>
 
-    <main>
-        <div class="top-row px-4">
-            <a href="https://learn.microsoft.com/aspnet/core/" target="_blank">About</a>
+    <RadzenHeader>
+        <RadzenStack Orientation="Orientation.Horizontal"
+                     AlignItems="AlignItems.Center"
+                     
+                     Class="rz-px-3 rz-py-2 rz-bg-primary rz-text-white">
+            
+            <RadzenSidebarToggle Click="@ToggleSidebar" Style="color:white;" />
+            <RadzenIcon Icon="code"/>
+            <RadzenLabel Text="BioAnalyzer"
+                         
+                         Style="font-size:1.3rem; font-weight:600; color:black;"  />
+
+            <div class="rz-ml-auto">
+                <RadzenLink Path="https://learn.microsoft.com/aspnet/core/" 
+                            Target="_blank"
+                            Text="About"
+                            Style="color:white; text-decoration:none;" />
+            </div>
+        </RadzenStack>
+    </RadzenHeader>
+
+    <RadzenSidebar @bind="@sidebarExpanded" 
+                   Breakpoint="Breakpoint.MdDown"
+                   Style="width:250px;">
+        <NavMenu />
+    </RadzenSidebar>
+
+    <RadzenBody>
+        <div class="rz-p-4">
+            <article class="content px-4">
+                @Body
+            </article>
         </div>
+    </RadzenBody>
 
-        <article class="content px-4">
-            @Body
-        </article>
-    </main>
-</div>
+    <RadzenFooter Class="rz-bg-primary rz-text-white rz-py-2 rz-text-center">
+        <span>© 2025 - ERPSystem</span>
+    </RadzenFooter>
 
-<div id="blazor-error-ui" data-nosnippet>
-    An unhandled error has occurred.
-    <a href="." class="reload">Reload</a>
-    <span class="dismiss">🗙</span>
-</div>
+</RadzenLayout>
+
+@code {
+    private bool sidebarExpanded = true;
+
+    private void ToggleSidebar()
+    {
+        sidebarExpanded = !sidebarExpanded;
+    }
+}

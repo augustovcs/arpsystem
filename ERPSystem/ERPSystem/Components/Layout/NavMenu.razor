@@ -1,29 +1,24 @@
-﻿<div class="top-row ps-3 navbar navbar-dark">
-    <div class="container-fluid">
-        <a class="navbar-brand" href="">ERPSystem</a>
-    </div>
-</div>
+﻿@using Radzen.Blazor;
 
-<input type="checkbox" title="Navigation menu" class="navbar-toggler"/>
+<RadzenPanelMenu>
 
-<div class="nav-scrollable" onclick="document.querySelector('.navbar-toggler').click()">
-    <nav class="nav flex-column">
-        <div class="nav-item px-3">
-            <NavLink class="nav-link" href="" Match="NavLinkMatch.All">
-                <span class="bi bi-house-door-fill-nav-menu" aria-hidden="true"></span> Home
-            </NavLink>
-        </div>
+    <RadzenPanelMenuItem Text="Dashboard"
+                         Icon="assessment"
+                         Path="/" />
+    
+    <RadzenPanelMenuItem Text="Analyzer"
+                         Icon="get_app"
+                         Path="analyzer" />
+    
+    <RadzenPanelMenuItem Text="Patients"
+                         Icon="face"
+                         Path="patients" />
 
-        <div class="nav-item px-3">
-            <NavLink class="nav-link" href="counter">
-                <span class="bi bi-plus-square-fill-nav-menu" aria-hidden="true"></span> Counter
-            </NavLink>
-        </div>
+    
 
-        <div class="nav-item px-3">
-            <NavLink class="nav-link" href="weather">
-                <span class="bi bi-list-nested-nav-menu" aria-hidden="true"></span> Weather
-            </NavLink>
-        </div>
-    </nav>
-</div>
+    <RadzenPanelMenuItem Text="Admin" Icon="settings">
+        <RadzenPanelMenuItem Text="Logs" Path="admin/logs" Icon="list_alt" />
+        <RadzenPanelMenuItem Text="Settings" Path="admin/settings" Icon="tune" />
+    </RadzenPanelMenuItem>
+
+</RadzenPanelMenu>

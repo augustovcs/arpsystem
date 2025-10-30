@@ -59,6 +59,10 @@
               "target": "Package",
               "version": "[9.0.3, )",
               "autoReferenced": true
+            },
+            "Radzen.Blazor": {
+              "target": "Package",
+              "version": "[8.1.6, )"
             }
           },
           "imports": [
@@ -139,6 +143,10 @@
             "Microsoft.AspNetCore.Components.WebAssembly.Server": {
               "target": "Package",
               "version": "[9.0.3, )"
+            },
+            "Radzen.Blazor": {
+              "target": "Package",
+              "version": "[8.1.6, )"
             }
           },
           "imports": [

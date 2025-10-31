@@ -1067,10 +1067,10 @@
 /home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem.Client/obj/Debug/net9.0/scopedcss/projectbundle/ERPSystem.Client.bundle.scp.css
 /home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem.Client/obj/Debug/net9.0/compressed/llxz8iu9wr-h1ms1cua0k.gz
 /home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem.Client/obj/Debug/net9.0/compressed/z3w2ct2z4y-h1ms1cua0k.gz
-/home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem.Client/bin/Debug/net9.0/wwwroot/_framework/ERPSystem.Client.hifh8k70rf.pdb
-/home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem.Client/bin/Debug/net9.0/wwwroot/_framework/ERPSystem.Client.g4wzspse16.wasm
-/home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem.Client/bin/Debug/net9.0/wwwroot/_framework/ERPSystem.Client.g4wzspse16.wasm.gz
-/home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem.Client/bin/Debug/net9.0/wwwroot/_framework/ERPSystem.Client.hifh8k70rf.pdb.gz
-/home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem.Client/obj/Debug/net9.0/compressed/rxmy1n3x72-g4wzspse16.gz
-/home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem.Client/obj/Debug/net9.0/compressed/z1pr4pldu9-hifh8k70rf.gz
-/home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem.Client/obj/Debug/net9.0/compressed/z5a27m5phi-i29yr37mle.gz
+/home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem.Client/bin/Debug/net9.0/wwwroot/_framework/ERPSystem.Client.kqk9xb17ak.pdb
+/home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem.Client/bin/Debug/net9.0/wwwroot/_framework/ERPSystem.Client.daeizylzhl.wasm
+/home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem.Client/bin/Debug/net9.0/wwwroot/_framework/ERPSystem.Client.daeizylzhl.wasm.gz
+/home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem.Client/bin/Debug/net9.0/wwwroot/_framework/ERPSystem.Client.kqk9xb17ak.pdb.gz
+/home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem.Client/obj/Debug/net9.0/compressed/rxmy1n3x72-daeizylzhl.gz
+/home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem.Client/obj/Debug/net9.0/compressed/z1pr4pldu9-kqk9xb17ak.gz
+/home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem.Client/obj/Debug/net9.0/compressed/z5a27m5phi-y0f6qdyake.gz

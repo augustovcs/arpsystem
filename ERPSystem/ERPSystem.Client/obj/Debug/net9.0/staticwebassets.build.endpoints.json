@@ -6413,8 +6413,8 @@
       ]
     },
     {
-      "Route": "_framework/ERPSystem.Client.g4wzspse16.wasm",
-      "AssetFile": "_framework/ERPSystem.Client.g4wzspse16.wasm",
+      "Route": "_framework/ERPSystem.Client.daeizylzhl.wasm",
+      "AssetFile": "_framework/ERPSystem.Client.daeizylzhl.wasm",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6427,7 +6427,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "14101"
+          "Value": "14613"
         },
         {
           "Name": "Content-Type",
@@ -6435,21 +6435,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"YG0XB1BD5o8INGUH8gzvMRIpsTDEzoPW9SMLtsCkXgU=\""
+          "Value": "\"1fOrUm3YWrxOK2k/2AarIC3Q2I+FKrM2BQ6uIiCHQww=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 30 Oct 2025 01:50:57 GMT"
+          "Value": "Fri, 31 Oct 2025 01:48:21 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "g4wzspse16"
+          "Value": "daeizylzhl"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-YG0XB1BD5o8INGUH8gzvMRIpsTDEzoPW9SMLtsCkXgU="
+          "Value": "sha256-1fOrUm3YWrxOK2k/2AarIC3Q2I+FKrM2BQ6uIiCHQww="
         },
         {
           "Name": "label",
@@ -6458,13 +6458,13 @@
       ]
     },
     {
-      "Route": "_framework/ERPSystem.Client.g4wzspse16.wasm",
-      "AssetFile": "_framework/ERPSystem.Client.g4wzspse16.wasm.gz",
+      "Route": "_framework/ERPSystem.Client.daeizylzhl.wasm",
+      "AssetFile": "_framework/ERPSystem.Client.daeizylzhl.wasm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000152625153"
+          "Quality": "0.000148964695"
         }
       ],
       "ResponseHeaders": [
@@ -6482,7 +6482,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6551"
+          "Value": "6712"
         },
         {
           "Name": "Content-Type",
@@ -6490,15 +6490,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"C2baZONJNcnhD671ymQ+9RYuAvUWyfW6LIUVEhnaoNw=\""
+          "Value": "\"WrFnsc6/1DrRwksgxrCQHHsrSfCbiHMCHRegaSV/YPE=\""
         },
         {
           "Name": "ETag",
-          "Value": "W/\"YG0XB1BD5o8INGUH8gzvMRIpsTDEzoPW9SMLtsCkXgU=\""
+          "Value": "W/\"1fOrUm3YWrxOK2k/2AarIC3Q2I+FKrM2BQ6uIiCHQww=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 30 Oct 2025 01:50:57 GMT"
+          "Value": "Fri, 31 Oct 2025 01:48:22 GMT"
         },
         {
           "Name": "Vary",
@@ -6508,11 +6508,11 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "g4wzspse16"
+          "Value": "daeizylzhl"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-YG0XB1BD5o8INGUH8gzvMRIpsTDEzoPW9SMLtsCkXgU="
+          "Value": "sha256-1fOrUm3YWrxOK2k/2AarIC3Q2I+FKrM2BQ6uIiCHQww="
         },
         {
           "Name": "label",
@@ -6521,8 +6521,8 @@
       ]
     },
     {
-      "Route": "_framework/ERPSystem.Client.g4wzspse16.wasm.gz",
-      "AssetFile": "_framework/ERPSystem.Client.g4wzspse16.wasm.gz",
+      "Route": "_framework/ERPSystem.Client.daeizylzhl.wasm.gz",
+      "AssetFile": "_framework/ERPSystem.Client.daeizylzhl.wasm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6539,7 +6539,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6551"
+          "Value": "6712"
         },
         {
           "Name": "Content-Type",
@@ -6547,11 +6547,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"C2baZONJNcnhD671ymQ+9RYuAvUWyfW6LIUVEhnaoNw=\""
+          "Value": "\"WrFnsc6/1DrRwksgxrCQHHsrSfCbiHMCHRegaSV/YPE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 30 Oct 2025 01:50:57 GMT"
+          "Value": "Fri, 31 Oct 2025 01:48:22 GMT"
         },
         {
           "Name": "Vary",
@@ -6561,11 +6561,11 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "g4wzspse16"
+          "Value": "daeizylzhl"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-C2baZONJNcnhD671ymQ+9RYuAvUWyfW6LIUVEhnaoNw="
+          "Value": "sha256-WrFnsc6/1DrRwksgxrCQHHsrSfCbiHMCHRegaSV/YPE="
         },
         {
           "Name": "label",
@@ -6574,8 +6574,8 @@
       ]
     },
     {
-      "Route": "_framework/ERPSystem.Client.hifh8k70rf.pdb",
-      "AssetFile": "_framework/ERPSystem.Client.hifh8k70rf.pdb",
+      "Route": "_framework/ERPSystem.Client.kqk9xb17ak.pdb",
+      "AssetFile": "_framework/ERPSystem.Client.kqk9xb17ak.pdb",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6588,7 +6588,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "21384"
+          "Value": "22640"
         },
         {
           "Name": "Content-Type",
@@ -6596,21 +6596,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ybBedCz6JHhRUiwiHHH2m340eoFEU7ATMn2zpO5xQEA=\""
+          "Value": "\"xJEZVrzK3Oumzb57drCGTV7jkN8iHNiR/qXYLGCZZds=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 30 Oct 2025 01:50:57 GMT"
+          "Value": "Fri, 31 Oct 2025 01:48:21 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "hifh8k70rf"
+          "Value": "kqk9xb17ak"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-ybBedCz6JHhRUiwiHHH2m340eoFEU7ATMn2zpO5xQEA="
+          "Value": "sha256-xJEZVrzK3Oumzb57drCGTV7jkN8iHNiR/qXYLGCZZds="
         },
         {
           "Name": "label",
@@ -6619,13 +6619,13 @@
       ]
     },
     {
-      "Route": "_framework/ERPSystem.Client.hifh8k70rf.pdb",
-      "AssetFile": "_framework/ERPSystem.Client.hifh8k70rf.pdb.gz",
+      "Route": "_framework/ERPSystem.Client.kqk9xb17ak.pdb",
+      "AssetFile": "_framework/ERPSystem.Client.kqk9xb17ak.pdb.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000067015145"
+          "Quality": "0.000062096374"
         }
       ],
       "ResponseHeaders": [
@@ -6643,7 +6643,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "14921"
+          "Value": "16103"
         },
         {
           "Name": "Content-Type",
@@ -6651,15 +6651,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"CdL8vQy4eEBKeoVRf6CA5CUiu5FGT7olCJEflWDpAzA=\""
+          "Value": "\"8o/qmOL5vDFX1nx2kpfhMoFvnq81SlP5syRfsj2bmcs=\""
         },
         {
           "Name": "ETag",
-          "Value": "W/\"ybBedCz6JHhRUiwiHHH2m340eoFEU7ATMn2zpO5xQEA=\""
+          "Value": "W/\"xJEZVrzK3Oumzb57drCGTV7jkN8iHNiR/qXYLGCZZds=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 30 Oct 2025 01:50:57 GMT"
+          "Value": "Fri, 31 Oct 2025 01:48:22 GMT"
         },
         {
           "Name": "Vary",
@@ -6669,11 +6669,11 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "hifh8k70rf"
+          "Value": "kqk9xb17ak"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-ybBedCz6JHhRUiwiHHH2m340eoFEU7ATMn2zpO5xQEA="
+          "Value": "sha256-xJEZVrzK3Oumzb57drCGTV7jkN8iHNiR/qXYLGCZZds="
         },
         {
           "Name": "label",
@@ -6682,8 +6682,8 @@
       ]
     },
     {
-      "Route": "_framework/ERPSystem.Client.hifh8k70rf.pdb.gz",
-      "AssetFile": "_framework/ERPSystem.Client.hifh8k70rf.pdb.gz",
+      "Route": "_framework/ERPSystem.Client.kqk9xb17ak.pdb.gz",
+      "AssetFile": "_framework/ERPSystem.Client.kqk9xb17ak.pdb.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6700,7 +6700,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "14921"
+          "Value": "16103"
         },
         {
           "Name": "Content-Type",
@@ -6708,11 +6708,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"CdL8vQy4eEBKeoVRf6CA5CUiu5FGT7olCJEflWDpAzA=\""
+          "Value": "\"8o/qmOL5vDFX1nx2kpfhMoFvnq81SlP5syRfsj2bmcs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 30 Oct 2025 01:50:57 GMT"
+          "Value": "Fri, 31 Oct 2025 01:48:22 GMT"
         },
         {
           "Name": "Vary",
@@ -6722,11 +6722,11 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "hifh8k70rf"
+          "Value": "kqk9xb17ak"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-CdL8vQy4eEBKeoVRf6CA5CUiu5FGT7olCJEflWDpAzA="
+          "Value": "sha256-8o/qmOL5vDFX1nx2kpfhMoFvnq81SlP5syRfsj2bmcs="
         },
         {
           "Name": "label",
@@ -6736,7 +6736,7 @@
     },
     {
       "Route": "_framework/ERPSystem.Client.pdb",
-      "AssetFile": "_framework/ERPSystem.Client.hifh8k70rf.pdb",
+      "AssetFile": "_framework/ERPSystem.Client.kqk9xb17ak.pdb",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6749,7 +6749,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "21384"
+          "Value": "22640"
         },
         {
           "Name": "Content-Type",
@@ -6757,28 +6757,28 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ybBedCz6JHhRUiwiHHH2m340eoFEU7ATMn2zpO5xQEA=\""
+          "Value": "\"xJEZVrzK3Oumzb57drCGTV7jkN8iHNiR/qXYLGCZZds=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 30 Oct 2025 01:50:57 GMT"
+          "Value": "Fri, 31 Oct 2025 01:48:21 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ybBedCz6JHhRUiwiHHH2m340eoFEU7ATMn2zpO5xQEA="
+          "Value": "sha256-xJEZVrzK3Oumzb57drCGTV7jkN8iHNiR/qXYLGCZZds="
         }
       ]
     },
     {
       "Route": "_framework/ERPSystem.Client.pdb",
-      "AssetFile": "_framework/ERPSystem.Client.hifh8k70rf.pdb.gz",
+      "AssetFile": "_framework/ERPSystem.Client.kqk9xb17ak.pdb.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000067015145"
+          "Quality": "0.000062096374"
         }
       ],
       "ResponseHeaders": [
@@ -6796,7 +6796,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "14921"
+          "Value": "16103"
         },
         {
           "Name": "Content-Type",
@@ -6804,15 +6804,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"CdL8vQy4eEBKeoVRf6CA5CUiu5FGT7olCJEflWDpAzA=\""
+          "Value": "\"8o/qmOL5vDFX1nx2kpfhMoFvnq81SlP5syRfsj2bmcs=\""
         },
         {
           "Name": "ETag",
-          "Value": "W/\"ybBedCz6JHhRUiwiHHH2m340eoFEU7ATMn2zpO5xQEA=\""
+          "Value": "W/\"xJEZVrzK3Oumzb57drCGTV7jkN8iHNiR/qXYLGCZZds=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 30 Oct 2025 01:50:57 GMT"
+          "Value": "Fri, 31 Oct 2025 01:48:22 GMT"
         },
         {
           "Name": "Vary",
@@ -6822,13 +6822,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ybBedCz6JHhRUiwiHHH2m340eoFEU7ATMn2zpO5xQEA="
+          "Value": "sha256-xJEZVrzK3Oumzb57drCGTV7jkN8iHNiR/qXYLGCZZds="
         }
       ]
     },
     {
       "Route": "_framework/ERPSystem.Client.pdb.gz",
-      "AssetFile": "_framework/ERPSystem.Client.hifh8k70rf.pdb.gz",
+      "AssetFile": "_framework/ERPSystem.Client.kqk9xb17ak.pdb.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6845,7 +6845,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "14921"
+          "Value": "16103"
         },
         {
           "Name": "Content-Type",
@@ -6853,11 +6853,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"CdL8vQy4eEBKeoVRf6CA5CUiu5FGT7olCJEflWDpAzA=\""
+          "Value": "\"8o/qmOL5vDFX1nx2kpfhMoFvnq81SlP5syRfsj2bmcs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 30 Oct 2025 01:50:57 GMT"
+          "Value": "Fri, 31 Oct 2025 01:48:22 GMT"
         },
         {
           "Name": "Vary",
@@ -6867,13 +6867,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-CdL8vQy4eEBKeoVRf6CA5CUiu5FGT7olCJEflWDpAzA="
+          "Value": "sha256-8o/qmOL5vDFX1nx2kpfhMoFvnq81SlP5syRfsj2bmcs="
         }
       ]
     },
     {
       "Route": "_framework/ERPSystem.Client.wasm",
-      "AssetFile": "_framework/ERPSystem.Client.g4wzspse16.wasm",
+      "AssetFile": "_framework/ERPSystem.Client.daeizylzhl.wasm",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6886,7 +6886,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "14101"
+          "Value": "14613"
         },
         {
           "Name": "Content-Type",
@@ -6894,28 +6894,28 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"YG0XB1BD5o8INGUH8gzvMRIpsTDEzoPW9SMLtsCkXgU=\""
+          "Value": "\"1fOrUm3YWrxOK2k/2AarIC3Q2I+FKrM2BQ6uIiCHQww=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 30 Oct 2025 01:50:57 GMT"
+          "Value": "Fri, 31 Oct 2025 01:48:21 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-YG0XB1BD5o8INGUH8gzvMRIpsTDEzoPW9SMLtsCkXgU="
+          "Value": "sha256-1fOrUm3YWrxOK2k/2AarIC3Q2I+FKrM2BQ6uIiCHQww="
         }
       ]
     },
     {
       "Route": "_framework/ERPSystem.Client.wasm",
-      "AssetFile": "_framework/ERPSystem.Client.g4wzspse16.wasm.gz",
+      "AssetFile": "_framework/ERPSystem.Client.daeizylzhl.wasm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000152625153"
+          "Quality": "0.000148964695"
         }
       ],
       "ResponseHeaders": [
@@ -6933,7 +6933,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6551"
+          "Value": "6712"
         },
         {
           "Name": "Content-Type",
@@ -6941,15 +6941,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"C2baZONJNcnhD671ymQ+9RYuAvUWyfW6LIUVEhnaoNw=\""
+          "Value": "\"WrFnsc6/1DrRwksgxrCQHHsrSfCbiHMCHRegaSV/YPE=\""
         },
         {
           "Name": "ETag",
-          "Value": "W/\"YG0XB1BD5o8INGUH8gzvMRIpsTDEzoPW9SMLtsCkXgU=\""
+          "Value": "W/\"1fOrUm3YWrxOK2k/2AarIC3Q2I+FKrM2BQ6uIiCHQww=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 30 Oct 2025 01:50:57 GMT"
+          "Value": "Fri, 31 Oct 2025 01:48:22 GMT"
         },
         {
           "Name": "Vary",
@@ -6959,13 +6959,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-YG0XB1BD5o8INGUH8gzvMRIpsTDEzoPW9SMLtsCkXgU="
+          "Value": "sha256-1fOrUm3YWrxOK2k/2AarIC3Q2I+FKrM2BQ6uIiCHQww="
         }
       ]
     },
     {
       "Route": "_framework/ERPSystem.Client.wasm.gz",
-      "AssetFile": "_framework/ERPSystem.Client.g4wzspse16.wasm.gz",
+      "AssetFile": "_framework/ERPSystem.Client.daeizylzhl.wasm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -6982,7 +6982,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "6551"
+          "Value": "6712"
         },
         {
           "Name": "Content-Type",
@@ -6990,11 +6990,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"C2baZONJNcnhD671ymQ+9RYuAvUWyfW6LIUVEhnaoNw=\""
+          "Value": "\"WrFnsc6/1DrRwksgxrCQHHsrSfCbiHMCHRegaSV/YPE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 30 Oct 2025 01:50:57 GMT"
+          "Value": "Fri, 31 Oct 2025 01:48:22 GMT"
         },
         {
           "Name": "Vary",
@@ -7004,7 +7004,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-C2baZONJNcnhD671ymQ+9RYuAvUWyfW6LIUVEhnaoNw="
+          "Value": "sha256-WrFnsc6/1DrRwksgxrCQHHsrSfCbiHMCHRegaSV/YPE="
         }
       ]
     },
@@ -63651,17 +63651,17 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"ajnc17FdURpCNSfmx59yMxc6DZjJdlrywxgAeqBEUaM=\""
+          "Value": "\"biCcSxQ3t5CGOW7MaeIjlzfO1dYt/35yPMRoXN0j0xo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 30 Oct 2025 01:59:27 GMT"
+          "Value": "Fri, 31 Oct 2025 01:48:22 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ajnc17FdURpCNSfmx59yMxc6DZjJdlrywxgAeqBEUaM="
+          "Value": "sha256-biCcSxQ3t5CGOW7MaeIjlzfO1dYt/35yPMRoXN0j0xo="
         }
       ]
     },
@@ -63672,7 +63672,7 @@
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000080586671"
+          "Quality": "0.000080593166"
         }
       ],
       "ResponseHeaders": [
@@ -63690,7 +63690,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12408"
+          "Value": "12407"
         },
         {
           "Name": "Content-Type",
@@ -63698,15 +63698,15 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"4LH+BZy3wbdGv+KmsQvNx/2rGwRQEdbTzJVvlaI+kPI=\""
+          "Value": "\"94jg8DZLvrdF86YhOhWDehPqUP5yf8KOf7A5tmX3FfA=\""
         },
         {
           "Name": "ETag",
-          "Value": "W/\"ajnc17FdURpCNSfmx59yMxc6DZjJdlrywxgAeqBEUaM=\""
+          "Value": "W/\"biCcSxQ3t5CGOW7MaeIjlzfO1dYt/35yPMRoXN0j0xo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 30 Oct 2025 01:58:28 GMT"
+          "Value": "Fri, 31 Oct 2025 01:39:48 GMT"
         },
         {
           "Name": "Vary",
@@ -63716,7 +63716,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-ajnc17FdURpCNSfmx59yMxc6DZjJdlrywxgAeqBEUaM="
+          "Value": "sha256-biCcSxQ3t5CGOW7MaeIjlzfO1dYt/35yPMRoXN0j0xo="
         }
       ]
     },
@@ -63739,7 +63739,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "12408"
+          "Value": "12407"
         },
         {
           "Name": "Content-Type",
@@ -63747,11 +63747,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"4LH+BZy3wbdGv+KmsQvNx/2rGwRQEdbTzJVvlaI+kPI=\""
+          "Value": "\"94jg8DZLvrdF86YhOhWDehPqUP5yf8KOf7A5tmX3FfA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 30 Oct 2025 01:58:28 GMT"
+          "Value": "Fri, 31 Oct 2025 01:39:48 GMT"
         },
         {
           "Name": "Vary",
@@ -63761,7 +63761,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-4LH+BZy3wbdGv+KmsQvNx/2rGwRQEdbTzJVvlaI+kPI="
+          "Value": "sha256-94jg8DZLvrdF86YhOhWDehPqUP5yf8KOf7A5tmX3FfA="
         }
       ]
     },

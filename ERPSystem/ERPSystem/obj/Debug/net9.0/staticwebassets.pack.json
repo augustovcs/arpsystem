@@ -193,6 +193,10 @@
       "PackagePath": "staticwebassets/uploads/1760825743273.jpg"
     },
     {
+      "Id": "/home/augustoviegascs/RiderProjects/ERPSystem/ERPSystem/ERPSystem/wwwroot/uploads/ChatGPT Image Oct 12, 2025, 04_19_52 PM.png",
+      "PackagePath": "staticwebassets/uploads/ChatGPT Image Oct 12, 2025, 04_19_52 PM.png"
+    },
+    {
       "Id": "obj/Debug/net9.0/staticwebassets/msbuild.ERPSystem.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },

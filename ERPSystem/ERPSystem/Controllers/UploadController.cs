@@ -8,7 +8,9 @@ public class UploadController : ControllerBase
     public async Task<IActionResult> UploadFiles(List<IFormFile> files)
     {
         if (files == null || files.Count == 0)
-            return BadRequest("Nenhum arquivo enviado.");
+            return BadRequest("No files uploaded.");
+
+        Directory.CreateDirectory("wwwroot/uploads");
 
         foreach (var file in files)
         {
@@ -17,6 +19,6 @@ public class UploadController : ControllerBase
             await file.CopyToAsync(stream);
         }
 
-        return Ok(new { Message = $"{files.Count} arquivo(s) enviados com sucesso." });
+        return Ok(new { Message = $"{files.Count} file(s) uploaded successfully." });
     }
 }

@@ -576,5 +576,17 @@
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"qwqpmw9fx5"},{"Name":"integrity","Value":"sha256-evpMc1xMeelUJp5j3TiBxCvgG4FEWj3olziBtYR\u002BuRM="},{"Name":"label","Value":"_content/ERPSystem/uploads/1760825743273.jpg"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"101070"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022evpMc1xMeelUJp5j3TiBxCvgG4FEWj3olziBtYR\u002BuRM=\u0022"},{"Name":"Last-Modified","Value":"Thu, 30 Oct 2025 01:59:18 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ERPSystem/uploads/ChatGPT Image Oct 12, 2025, 04_19_52 PM.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\ChatGPT Image Oct 12, 2025, 04_19_52 PM.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-KOFQfHd/SqqNvhzsQAOStO/JHimfYGJVLfe\u002BOlKQkKU="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"2903638"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022KOFQfHd/SqqNvhzsQAOStO/JHimfYGJVLfe\u002BOlKQkKU=\u0022"},{"Name":"Last-Modified","Value":"Fri, 31 Oct 2025 01:43:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/ERPSystem/uploads/ChatGPT Image Oct 12, 2025, 04_19_52 PM.wy37zf7wgm.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\ChatGPT Image Oct 12, 2025, 04_19_52 PM.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"wy37zf7wgm"},{"Name":"integrity","Value":"sha256-KOFQfHd/SqqNvhzsQAOStO/JHimfYGJVLfe\u002BOlKQkKU="},{"Name":"label","Value":"_content/ERPSystem/uploads/ChatGPT Image Oct 12, 2025, 04_19_52 PM.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2903638"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022KOFQfHd/SqqNvhzsQAOStO/JHimfYGJVLfe\u002BOlKQkKU=\u0022"},{"Name":"Last-Modified","Value":"Fri, 31 Oct 2025 01:43:43 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
   </ItemGroup>
 </Project>

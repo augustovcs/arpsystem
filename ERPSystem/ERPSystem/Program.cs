@@ -43,6 +43,9 @@ else
 }
 
 app.UseHttpsRedirection();
+
+app.UseAntiforgery();
+
 app.UseAuthorization();
 
 app.MapControllers();

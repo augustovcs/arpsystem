@@ -864,5 +864,23 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\1760825743273.jpg'))</OriginalItemSpec>
     </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\ChatGPT Image Oct 12, 2025, 04_19_52 PM.png'))">
+      <SourceType>Package</SourceType>
+      <SourceId>ERPSystem</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/ERPSystem</BasePath>
+      <RelativePath>uploads/ChatGPT Image Oct 12, 2025, 04_19_52 PM.png</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>wy37zf7wgm</Fingerprint>
+      <Integrity>KOFQfHd/SqqNvhzsQAOStO/JHimfYGJVLfe+OlKQkKU=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\uploads\ChatGPT Image Oct 12, 2025, 04_19_52 PM.png'))</OriginalItemSpec>
+    </StaticWebAsset>
   </ItemGroup>
 </Project>

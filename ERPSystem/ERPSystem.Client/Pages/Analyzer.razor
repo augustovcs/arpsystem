@@ -2,6 +2,7 @@
 @using ERPSystem.Client.Components
 @using Radzen
 @using Radzen.Blazor
+
 <style>
     #uploadWithDragAndDrop {
         left: 0;
@@ -15,42 +16,61 @@
         font-size: 16px;
         padding: 100px 0;
     }
+    
+    
 </style>
+
 <RadzenCard Variant="Variant.Outlined">
-    <RadzenText TextStyle="TextStyle.Subtitle2" TagName="TagName.H3">Drag and drop files to upload</RadzenText>
-    <RadzenUpload id="uploadWithDragAndDrop" @ref="upload" ChooseText="Drag and drop here or click to choose files" 
-                  Auto="true" Multiple="true" Url="upload/multiple" InputAttributes="@(new Dictionary<string,object>(){ { "aria-label", "select file" }})"
-                  Progress=@OnProgress Style="width: 100%" />
-    <RadzenButton Text="Upload" Click=@OnUpload class="rz-mt-4" />
+    <RadzenText TextStyle="TextStyle.Subtitle2" TagName="TagName.H3">
+        Drag and drop files to upload
+    </RadzenText>
+
+    <RadzenUpload id="uploadWithDragAndDrop"
+                  @ref="upload"
+                  ChooseText="Drag and drop here or click to choose files"
+                  Auto="false"
+                  Multiple="true"
+                  Url="/upload/multiple"
+                  Progress="@OnProgress"
+                  Change="@OnFileChange"
+                  Style="width: 100%" />
+
+    <RadzenButton Text="Upload" Click="@OnUpload" class="rz-mt-4" />
 </RadzenCard>
 
-<EventConsole @ref=@console />
+<EventConsole @ref="@console" />
 
 @code {
-    EventConsole console;
     RadzenUpload upload;
+    EventConsole console;
+    IEnumerable<IBrowserFile> selectedFiles;
+
+    void OnFileChange(UploadChangeEventArgs args)
+    {
+        selectedFiles = args.Files;
+        console?.Log($"{selectedFiles.Count()} file(s) ready to upload.");
+    }
 
     void OnUpload()
     {
+        if (selectedFiles == null || !selectedFiles.Any())
+        {
+            console?.Log("No files selected.");
+            return;
+        }
+
         upload.Upload();
     }
 
     void OnProgress(UploadProgressArgs args)
     {
-        if (console == null)
-        {
-            Console.WriteLine("Console ainda não inicializado!");
-            return;
-        }
-        
-        console.Log($"Upload progress: {args.Progress}% / {args.Loaded} of {args.Total} bytes.");
-        
-        
+        console?.Log($"Upload progress: {args.Progress}% / {args.Loaded} of {args.Total} bytes");
+
         if (args.Progress == 100)
         {
             foreach (var file in args.Files)
             {
-                console.Log($"Uploaded: {file.Name} / {file.Size} bytes");
+                console?.Log($"Uploaded: {file.Name} / {file.Size} bytes");
             }
         }
     }
